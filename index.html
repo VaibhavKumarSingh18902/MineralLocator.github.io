@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href='https://api.mapbox.com/mapbox-gl-js/v1.8.1/mapbox-gl.css' rel='stylesheet' />
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        #map{
+            width: 50vw;
+            height: 77vh;
+            
+        }
+        .title{
+        width:100vw;
+        font-family: Arial, Helvetica, sans-serif;
+        height: max-content;
+        }
+        .title::before{
+            position: absolute;
+            z-index: -1;
+            content: "";
+            height: 4rem;
+            width: 100vw;
+            background: rgb(19, 18, 18);
+        }
+        .title h1{
+            width: max-content;
+            margin: auto;
+            color: rgb(51, 145, 233);
+            position: relative;
+            top: 1rem;
+        }
+        .container{
+            display: flex;
+            flex-direction: column;
+        }
+        .box{
+            position: relative;
+            top: 3rem;
+            display: flex;
+            flex-direction: row;
+        }
+        
+       
+        .search{
+         width: 14rem;
+         margin: auto;
+         text-align: center;
+         
+        }
+        .box1{
+            width: 30%;
+            margin: auto ;
+        }
+        .content{
+            width: 47%;
+            border: 2px solid black;
+            border-radius: 1rem;
+            height:76vh;
+            background-color: grey;
+            margin-right: 1rem;
+            overflow-y: scroll;
+            
+            
+        }
+        #sea{
+            filter: invert(100%);
+        }
+        .search input{
+            width: 12rem;
+            height: 3rem;
+            border-radius: 3rem;
+            outline: none;
+            margin: auto;
+            text-align: center;
+        }
+        
+        .search input::placeholder{
+          color: black;
+          font-size: 14px;
+        }
+        
+        .info{
+            width: max-content;
+            margin: auto;
+            position: relative;
+            top: 4rem;
+            font-size: 174%;
+            display: flex;
+            flex-direction: column;
+            
+        }
+        
+        
+        
+        
+        
+      
+    </style>
+    <title>Mineral Locater</title>
+</head>
+<body>
+    
+    <div class="container">
+        <div class="title">
+            <h1>MINERAL LOCATER</h1>
+             
+    </div>
+    <div class="box">
+         <div class="content">
+             <div class="box1">
+
+                 <div class="search">
+                     <form action="">
+                         <input type="search" name="" id="searchmineral" placeholder="Enter the mineral to locate">
+                         <button type="submit" id="btn">Search</button>
+                        </form>
+                    </div>
+                </div>
+
+                <div class="info">
+                    <p>Nothing to show here.</p>
+                </div>
+
+         </div>
+
+
+        <div id='map'>
+        </div>
+    </div>
+    
+        </div>
+    
+
+    
+    
+</body>
+
+
+<script src='https://api.mapbox.com/mapbox-gl-js/v1.8.1/mapbox-gl.js'></script>
+<script>
+  mapboxgl.accessToken = 'pk.eyJ1IjoiaGFycnkxMjM0OTgiLCJhIjoiY2s4OXh1c3BqMGFsZzNvbXA3YmYyaGFhYSJ9.wmVMiMxlSqpzJPsj-UXr3Q';
+  var map = new mapboxgl.Map({
+    container: 'map',
+    style: 'mapbox://styles/mapbox/dark-v10',
+    zoom: 4,
+    center: [82.9894,25.2623]
+  });
+
+
+
+</script>
+<script src="i.js"></script>
+
+</html>

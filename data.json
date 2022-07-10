@@ -1,0 +1,2104 @@
+{
+    "data": [
+           {
+            "Mineral": "Manganese",
+            "Mine": "Bargham Manganese Occurrence",
+            "State": "Andhra Pradesh",
+            "Longitude":"79.5850",
+            "Latitude":"16.6054",
+            "Article":"The Garbham Manganese Occurrence is in Andhra Pradesh, India.Ore mineralization has been found at this location, however the precise grade, tonnage, and extent of the mineralization are not known. There has been no production and little to no activity other than routine claim maintenance since the mineral discovery. The ore mined is composed of braunite, pyrolusite and bixbyite with waste material consisting primarily of garnet, goethite and quartz. The ore is found in stratiform deposits 5 meters (16 feet) thick. The host rock in this area is quartzite from the Neoproterozoic era 1.00 to 0.54 billion years ago.",
+            "more_info":"https://thediggings.com/mines/usgs10003846"
+           },
+           
+           {"Mineral": "Iron",
+            "Mine":"Gunter Area: Venparla, Purimetla Iron Prospect",
+            "State":"Andhra Pradesh",
+            "Longitude": "80.4303",
+            "Latitude":"16.2999", 
+            "Article":"The Gunter Area: Venparla, Purimetla Iron Prospect is near Guntur,India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. Information from 1978 described the ore as sedimentary in form of unknown dimensions.",
+            "more_info":"https://thediggings.com/mines/usgs10133765#mine-location-info"
+           },
+           
+           {"Mineral": "copper",
+            "Mine":"Gummankonda Copper Mine",
+            "State": "Andhra Pradesh",
+            "Longitude":"78.3003",
+            "Latitude": "15.6300",
+            "Article": "The Gummankonda Copper Mine is near Nandyal,India. The Gummankonda Copper Mine was closed at the time of data entrywith no known plans to re-open. Information from 1978 described the ore instockwork veins reaching 4,950 meters (16,240 feet) in length.",
+            "more_info":"https://thediggings.com/mines/usgs10133991"
+           },
+           
+           {
+               "Mineral": "Iron",
+               "Mine": "Ongole And Gundlakamma Groups Iron Occurrence",
+               "State":"Andhra Pradesh",
+               "Longitude":"80.0603",
+               "Latitude": "15.5000",
+               "Article":"The Ongole And Gundlakamma Groups Iron Occurrence is near Ongole, India. Ore mineralization has been found at this location, however the precise grade, tonnage, and extent of the mineralization are not known. There has been no production and little to no activity other than routine claim maintenance since the mineral discovery.",
+               "more_info":"https://thediggings.com/mines/usgs10134027"
+           },
+           
+              {"Mineral": "Copper",
+               "Mine": "Yerrapilly Copper Mines",
+               "State":"Andhra Pradesh",
+               "Longitude":"79.6003",
+               "Latitude": "14.9801",
+               "Article":"The Yerrapilly Copper Mines are in Andhra Pradesh, India. The Yerrapilly Copper Mines was closed at the time of data entry with no known plans to re-open. Information from 1978 described the ore in stockwork veins of unknown dimensions.",
+               "more_info":"https://thediggings.com/mines/usgs10134126"
+              },
+           
+              {"Mineral": "Zinc",
+               "Mine": "Thanewasna Zinc Prospect",
+               "State":"Andhra Pradesh",
+               "Longitude":"79.7303",
+               "Latitude": "19.0797",
+               "Article":"The Thanewasna Zinc Prospect is in Andhra Pradesh, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. As of 1978 there was one documented tabular shaped ore body extending 1,650 meters (5,413 feet) long and 30 meters (98 feet) wide.",
+               "more_info":"https://thediggings.com/mines/usgs10134043"
+              },
+              {"Mineral": "Copper",
+               "Mine": "Thanewasna Zinc Prospect",
+               "State":"Andhra Pradesh",
+               "Longitude":"79.7303",
+               "Latitude": "19.0797",
+               "Article":"The Thanewasna Zinc Prospect is in Andhra Pradesh, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. As of 1978 there was one documented tabular shaped ore body extending 1,650 meters (5,413 feet) long and 30 meters (98 feet) wide.",
+               "more_info":"https://thediggings.com/mines/usgs10134043"
+              },
+              {"Mineral": "Lead",
+               "Mine": "Thanewasna Zinc Prospect",
+               "State":"Andhra Pradesh",
+               "Longitude":"79.7303",
+               "Latitude": "19.0797",
+               "Article":"The Thanewasna Zinc Prospect is in Andhra Pradesh, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. As of 1978 there was one documented tabular shaped ore body extending 1,650 meters (5,413 feet) long and 30 meters (98 feet) wide.",
+               "more_info":"https://thediggings.com/mines/usgs10134043"
+              },
+              {
+                "Mineral": "Gold",
+                "Mine": "Patkai Ranges Osmium Occurrence",
+                "State":"Arunachal Pradesh",
+                "Longitude":" 95.6751",
+                "Latitude": "26.8929",
+                "Article":"The Patkai Ranges Osmium Occurrence is in Arunachal Pradesh, India. Ore mineralization has been found at this location, however the precise grade, tonnage, and extent of the mineralization are not known. There has been no production and little to no activity other than routine claim maintenance since the mineral discovery.",
+                "more_info":"https://thediggings.com/mines/usgs10037828"
+            },
+              {
+                "Mineral": "Iridium",
+                "Mine": "Patkai Ranges Osmium Occurrence",
+                "State":"Arunachal Pradesh",
+                "Longitude":" 95.6751",
+                "Latitude": "26.8929",
+                "Article":"The Patkai Ranges Osmium Occurrence is in Arunachal Pradesh, India. Ore mineralization has been found at this location, however the precise grade, tonnage, and extent of the mineralization are not known. There has been no production and little to no activity other than routine claim maintenance since the mineral discovery.",
+                "more_info":"https://thediggings.com/mines/usgs10037828"
+            },
+              {
+                "Mineral": "Platinum",
+                "Mine": "Patkai Ranges Osmium Occurrence",
+                "State":"Arunachal Pradesh",
+                "Longitude":" 95.6751",
+                "Latitude": "26.8929",
+                "Article":"The Patkai Ranges Osmium Occurrence is in Arunachal Pradesh, India. Ore mineralization has been found at this location, however the precise grade, tonnage, and extent of the mineralization are not known. There has been no production and little to no activity other than routine claim maintenance since the mineral discovery.",
+                "more_info":"https://thediggings.com/mines/usgs10037828"
+            },
+              {
+                "Mineral": "Osmium",
+                "Mine": "Patkai Ranges Osmium Occurrence",
+                "State":"Arunachal Pradesh",
+                "Longitude":" 95.6751",
+                "Latitude": "26.8929",
+                "Article":"The Patkai Ranges Osmium Occurrence is in Arunachal Pradesh, India. Ore mineralization has been found at this location, however the precise grade, tonnage, and extent of the mineralization are not known. There has been no production and little to no activity other than routine claim maintenance since the mineral discovery.",
+                "more_info":"https://thediggings.com/mines/usgs10037828"
+            },
+               
+
+               
+               {"Mineral": "Copper",
+                "Mine": "Potni, Subansiri Frontier Divisio Copper Prospect",
+                "State":"Arunachal Pradesh",
+                "Longitude":"93.8299",
+                "Latitude": "27.329",
+                "Article":"The Potni, Subansiri Frontier Divisio Copper Prospect is near Itanagar, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. Information from 1978 described the ore in stockwork veins 40 meters (131 feet) in width.",
+                "more_info":"https://thediggings.com/mines/usgs10304410"
+               },
+
+               {"Mineral": "Gold",
+                "Mine": "Potni, Subansiri Frontier Divisio Copper Prospect",
+                "State":"Arunachal Pradesh",
+                "Longitude":"93.8299",
+                "Latitude": "27.329",
+                "Article":"The Potni, Subansiri Frontier Division Copper Prospect is near Itanagar, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. Information from 1978 described the ore in stockwork veins 40 meters (131 feet) in width.",
+                "more_info":"https://thediggings.com/mines/usgs10304410"
+               },
+               
+{
+  "Mineral": "Manganese",
+  "Mine": "Bargham Manganese Occurrence",
+  "State": "Andhra Pradesh",
+  "Longitude":"79.5850",
+  "Latitude":"16.6054",
+  "Article":"The Garbham Manganese Occurrence is in Andhra Pradesh, India.Ore mineralization has been found at this location, however the precise grade, tonnage, and extent of the mineralization are not known. There has been no production and little to no activity other than routine claim maintenance since the mineral discovery. The ore mined is composed of braunite, pyrolusite and bixbyite with waste material consisting primarily of garnet, goethite and quartz. The ore is found in stratiform deposits 5 meters (16 feet) thick. The host rock in this area is quartzite from the Neoproterozoic era 1.00 to 0.54 billion years ago.",
+  "more_info":"https://thediggings.com/mines/usgs10003846"
+ },
+ 
+ {"Mineral": "Iron",
+  "Mine":"Gunter Area: Venparla, Purimetla Iron Prospect",
+  "State":"Andhra Pradesh",
+  "Longitude": "80.4303",
+  "Latitude":"16.2999", 
+  "Article":"The Gunter Area: Venparla, Purimetla Iron Prospect is near Guntur,India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. Information from 1978 described the ore as sedimentary in form of unknown dimensions.",
+  "more_info":"https://thediggings.com/mines/usgs10133765#mine-location-info"
+ },
+ 
+ {"Mineral": "copper",
+  "Mine":"Gummankonda Copper Mine",
+  "State": "Andhra Pradesh",
+  "Longitude":"78.3003",
+  "Latitude": "15.6300",
+  "Article": "The Gummankonda Copper Mine is near Nandyal,India. The Gummankonda Copper Mine was closed at the time of data entrywith no known plans to re-open. Information from 1978 described the ore instockwork veins reaching 4,950 meters (16,240 feet) in length.",
+  "more_info":"https://thediggings.com/mines/usgs10133991"
+ },
+ 
+ {"Mineral": "Iron",
+     "Mine": "Ongole And Gundlakamma Groups Iron Occurrence",
+     "State":"Andhra Pradesh",
+     "Longitude":"80.0603",
+     "Latitude": "15.5000",
+     "Article":"The Ongole And Gundlakamma Groups Iron Occurrence is near Ongole, India. Ore mineralization has been found at this location, however the precise grade, tonnage, and extent of the mineralization are not known. There has been no production and little to no activity other than routine claim maintenance since the mineral discovery.",
+     "more_info":"https://thediggings.com/mines/usgs10134027"
+    },
+ 
+    {"Mineral": "Copper",
+     "Mine": "Yerrapilly Copper Mines",
+     "State":"Andhra Pradesh",
+     "Longitude":"79.6003",
+     "Latitude": "14.9801",
+     "Article":"The Yerrapilly Copper Mines are in Andhra Pradesh, India. The Yerrapilly Copper Mines was closed at the time of data entry with no known plans to re-open. Information from 1978 described the ore in stockwork veins of unknown dimensions.",
+     "more_info":"https://thediggings.com/mines/usgs10134126"
+    },
+ 
+    {"Mineral": "Zinc, Copper, Lead",
+     "Mine": "Thanewasna Zinc Prospect",
+     "State":"Andhra Pradesh",
+     "Longitude":"79.7303",
+     "Latitude": "19.0797",
+     "Article":"The Thanewasna Zinc Prospect is in Andhra Pradesh, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. As of 1978 there was one documented tabular shaped ore body extending 1,650 meters (5,413 feet) long and 30 meters (98 feet) wide.",
+     "more_info":"https://thediggings.com/mines/usgs10134043"
+    },
+ 
+    {"Mineral": "Ferrochrome",
+     "Mine": "Shreeramnagar Smelter",
+     "State":"Andhra Pradesh",
+     "Longitude":"83.5002",
+     "Latitude": "18.1165",
+     "Article":"The Shreeramnagar Smelter is near Vizianagaram, India. The Shreeramnagar Smelter is a processing plant. Initial production took place in 1978.",
+     "more_info":"https://thediggings.com/mines/usgs10134054"
+    },
+ 
+    {"Mineral": "Iron",
+     "Mine": "Chabali Iron Prospect",
+     "State":"Andhra Pradesh",
+     "Longitude":"78.6003",
+     "Latitude": "14.5001",
+     "Article":"The Chabali Iron Prospect is near Proddatur, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. The ore body is described as having an irregular shape of unknown dimensions.",
+     "more_info":"https://thediggings.com/mines/usgs10133903"
+    },
+    {"Mineral": "Iron, Titanium Metal, Vanadium",
+     "Mine": "Tiruvuru Area",
+     "State":"Andhra Pradesh",
+     "Longitude":"80.0003",
+     "Latitude": " 16.9999",
+     "Article":"The Tiruvuru Area is near Khammam, India.",
+     "more_info":"https://thediggings.com/mines/usgs10008262"
+    },
+    {"Mineral": "Copper, Lead",
+     "Mine": "Agnigundala Copper-Lead Mine",
+     "State":"Andhra Pradesh",
+     "Longitude":"79.7086",
+     "Latitude": "16.1983",
+     "Article":"The Agnigundala Copper-Lead Mine is in Andhra Pradesh, India. The Agnigundala Copper-Lead Mine is a underground mining operation. The ore mined is composed of pyrite, chalcopyrite and sphalerite. The ore is found in veins of unknown dimensions. The host rock in this area is quartzite.",
+     "more_info":"https://thediggings.com/mines/20099"
+    },
+    {"Mineral": "Iron",
+     "Mine": "Sanampudi-Toppa Hill Iron Prospect",
+     "State":"Andhra Pradesh",
+     "Longitude":"80.4303",
+     "Latitude": "16.2999",
+     "Article":"The Sanampudi-Toppa Hill Iron Prospect is near Guntur, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. Information from 1978 described the ore as sedimentary in form of unknown dimensions.",
+     "more_info":"https://thediggings.com/mines/usgs10182448"
+    },
+    {"Mineral": "Zinc",
+     "Mine": "Uizag Processing Plant",
+     "State":"Andhra Pradesh",
+     "Longitude":"83.2835",
+     "Latitude": "17.7331",
+     "Article":"The Uizag Processing Plant is near Vishakhapatnam, India. The Uizag Processing Plant is a processing plant.",
+     "more_info":"https://thediggings.com/mines/usgs10190999"
+    },
+    {"Mineral": "Iron, Phosphorous-Phosphates, Silica, Sulphur ",
+     "Mine": "Coal Field Mine",
+     "State":"Andhra Pradesh",
+     "Longitude":"79.5603",
+     "Latitude": "18.0098",
+     "Article":"The Coal Field Mine is near Warangal, India. The Coal Field Mine was closed at the time of data entry with no known plans to re-open. Information from 1978 described the ore as sedimentary in form of unknown dimensions.",
+     "more_info":"https://thediggings.com/mines/usgs10255659"
+    },
+    {"Mineral": "Copper",
+     "Mine": "Kurnool Copper Mine",
+     "State":"Andhra Pradesh",
+     "Longitude":" 78.3303",
+     "Latitude": "15.6600",
+     "Article":"The Kurnool Copper Mine is near Nandyal, India. The Kurnool Copper Mine was closed at the time of data entry with no known plans to re-open.",
+     "more_info":"https://thediggings.com/mines/usgs10255732"
+    },
+    {"Mineral": "Iron",
+     "Mine": "Pagadalapalle Iron Prospect",
+     "State":"Andhra Pradesh",
+     "Longitude":"78.6103",
+     "Latitude": "14.4501",
+     "Article":"The Pagadalapalle Iron Prospect is near Proddatur, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. The ore body is irregularly shaped of unknown dimensions.",
+     "more_info":"https://thediggings.com/mines/usgs10256300"
+    },
+    {"Mineral": "Iron",
+     "Mine": "Amberpet Iron Prospect",
+     "State":"Andhra Pradesh",
+     "Longitude":"78.0803",
+     "Latitude": "18.6597",
+     "Article":"The Amberpet Iron Prospect is near Nizamabad, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. Information from 1978 described the ore as sedimentary in form of unknown dimensions.",
+     "more_info":"https://thediggings.com/mines/usgs10158386"
+    },
+    {"Mineral": "Iron, Manganese, Phosphorous-Phosphates, Silica",
+     "Mine": "Sandur Phosphorus-Phosphates Mines",
+     "State":"Andhra Pradesh",
+     "Longitude":"79.6003",
+     "Latitude": "14.4168",
+     "Article":"The Sandur Phosphorus-Phosphates Mines are in Andhra Pradesh, India. The ore body is described as having an irregular shape of unknown dimensions.",
+     "more_info":"https://thediggings.com/mines/usgs10182655"
+    },
+    {"Mineral": "Aluminium, Iron, Silica, Sulphur, Phosphorus-Phosphates",
+     "Mine": "Chityal Phosphate Prospect",
+     "State":"Andhra Pradesh",
+     "Longitude":"78.0803",
+     "Latitude": " 18.6597",
+     "Article":"The Chityal Phosphate Prospect is near Nizamabad, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. Information from 1978 described the ore as sedimentary in form of unknown dimensions.",
+     "more_info":"https://thediggings.com/mines/usgs10206817"
+    },
+    {"Mineral": "Iron",
+     "Mine": "Yerbali Iron Prospect",
+     "State":"Andhra Pradesh",
+     "Longitude":"79.1303",
+     "Latitude": "18.4297",
+     "Article":"The Yerbali Iron Prospect is near Karimnagar, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. Information from 1978 described the ore as sedimentary in form of unknown dimensions.",
+     "more_info":"https://thediggings.com/mines/usgs10206625"
+    },
+    {"Mineral": "Copper",
+     "Mine": "Kovaripalli Copper Deposit",
+     "State":"Andhra Pradesh",
+     "Longitude":"79.5003",
+     "Latitude": "14.9801",
+     "Article":"The Kovaripalli Copper Deposit is in Andhra Pradesh, India. As of 1978 there were two known tabular shaped ore bodies of unknown dimensions.",
+     "more_info":"https://thediggings.com/mines/usgs10206680"
+    },
+    {"Mineral": "Lead",
+     "Mine": "Nagasanapalle Lead Prospect",
+     "State":"Andhra Pradesh",
+     "Longitude":" 78.8170",
+     "Latitude": " 14.7001",
+     "Article":"The Nagasanapalle Lead Prospect is near Proddatur, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage.",
+     "more_info":"https://thediggings.com/mines/usgs10206723"
+    },
+    {"Mineral": "Manganese",
+     "Mine": "Janapalacheruvu Manganese Deposit",
+     "State":"Andhra Pradesh",
+     "Longitude":"79.1503",
+     "Latitude": "15.4600",
+     "Article":"The Janapalacheruvu Manganese Deposit is in Andhra Pradesh, India. The Janapalacheruvu Manganese Deposit was closed at the time of data entry with no known plans to re-open. Documentation from 1978 describes a single ore body as having a lenticular or lens shaped form reaching 2.00 meters (6.56 feet) thick.",
+     "more_info":"https://thediggings.com/mines/usgs10207196"
+    },
+    {"Mineral": "Lead",
+     "Mine": "Zangamrajupalle Lead Prospect",
+     "State":"Andhra Pradesh",
+     "Longitude":"78.8803",
+     "Latitude": "14.7601",
+     "Article":"The Zangamrajupalle Lead Prospect is near Proddatur, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. Information from 1978 described the ore in stockwork veins of unknown dimensions.",
+     "more_info":"https://thediggings.com/mines/usgs10230750"
+    },
+    {"Mineral": "Phosphorus-Phosphates, Iron, Silica",
+     "Mine": "Purnameta Hill-Ongole Hill Silica Prospect",
+     "State":"Andhra Pradesh",
+     "Longitude":" 80.4303",
+     "Latitude": " 16.2999",
+     "Article":"The Purnameta Hill-Ongole Hill Silica Prospect is near Guntur, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. Information from 1978 described the ore as sedimentary in form of unknown dimensions.",
+     "more_info":"https://thediggings.com/mines/usgs10230863"
+    },
+    {"Mineral": "Aluminium",
+     "Mine": "Panchpatmali Aluminum Mine",
+     "State":"Andhra Pradesh",
+     "Longitude":" 82.1669",
+     "Latitude": "17.4998",
+     "Article":"The Panchpatmali Aluminum Mine is in Andhra Pradesh, India. The site was first discovered in 1961. The Panchpatmali Aluminum Mine is a surface mining operation. Initial production took place in 1985. Mine operations consist of surface workings extending 1,500.00 hectares (3,706.58 acres). There is one known shaft. The mining method is open pit. As of 1990 there were two known tabular shaped ore bodies one of which extends 15,000 meters (49,212 feet) long, 2,000 meters (6,561 feet) wide, and 14 meters (47 feet) thick.",
+     "more_info":"https://thediggings.com/mines/usgs10230909"
+    },
+    {"Mineral": "Phosphorus-Phosphates, Iron, Sulphur, Silica",
+     "Mine": "Jaggyapeta Iron Prospect",
+     "State":"Andhra Pradesh",
+     "Longitude":"79.5603",
+     "Latitude": "18.0998",
+     "Article":"The Jaggyapeta Iron Prospect is near Warangal, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. The ore is placer in form of unknown dimensions.",
+     "more_info":"https://thediggings.com/mines/usgs10230921"
+    },
+    {"Mineral": "Sulfuric Acid, Lead, Silver",
+     "Mine": "Vishakhapatnam Lead Processing Plant",
+     "State":"Andhra Pradesh",
+     "Longitude":"83.4002",
+     "Latitude": "17.6665",
+     "Article":"The Vishakhapatnam Lead Processing Plant is near Vishakhapatnam, India. The Vishakhapatnam Lead Processing Plant is a processing plant.",
+     "more_info":"https://thediggings.com/mines/usgs10231007"
+    },
+    {"Mineral": "Copper",
+     "Mine": "Adimurtipuram Copper Mine",
+     "State":"Andhra Pradesh",
+     "Longitude":"79.6803",
+     "Latitude": "14.9500",
+     "Article":"The Adimurtipuram Copper Mine is in Andhra Pradesh, India. The Adimurtipuram Copper Mine was closed at the time of data entry with no known plans to re-open. Information from 1978 described the ore in stockwork veins of unknown dimensions.",
+     "more_info":"https://thediggings.com/mines/usgs10231066"
+    },
+    {"Mineral": "Iron",
+     "Mine": "Fault Zone From Veldurti To Ramal Iron Prospect",
+     "State":"Andhra Pradesh",
+     "Longitude":"77.9303",
+     "Latitude": "15.5600",
+     "Article":"The Fault Zone From Veldurti To Ramal Iron Prospect is in Andhra Pradesh, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. The ore is found in irregularly shaped veins of unknown dimensions.",
+     "more_info":"https://thediggings.com/mines/usgs10231081"
+    },
+    {"Mineral": "Phosphorus-Phosphates, Iron, Silica, Sulphur",
+     "Mine": "Kelleda-Dastrabad Iron Prospect",
+     "State":"Andhra Pradesh",
+     "Longitude":"78.0803",
+     "Latitude": "18.6597",
+     "Article":"The Kelleda-Dastrabad Iron Prospect is near Nizamabad, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. Information from 1978 described the ore as sedimentary in form of unknown dimensions.",
+     "more_info":"https://thediggings.com/mines/usgs10158485"
+    },
+    {"Mineral": "Aluminium",
+     "Mine": "Chintapalee Aluminum Prospect",
+     "State":"Andhra Pradesh",
+     "Longitude":" 82.1835",
+     "Latitude": " 17.5415",
+     "Article":"The Chintapalee Aluminum Prospect is in Andhra Pradesh, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. Mine operations consist of 3 distinct surface workings extending 3,900.00 hectares (9,637.10 acres). There is one known shaft. The mining method is strip-level. Mine capacity in 1981 was 4364 mt ore/day with a production unit cost of 1.34 $/mt ore. As of 1991 there were two known tabular shaped ore bodies of unknown dimensions.",
+     "more_info":"https://thediggings.com/mines/usgs10158566"
+    },
+    {"Mineral": "Copper",
+     "Mine": "Gani-Kalava Belt Copper Mine",
+     "State":"Andhra Pradesh",
+     "Longitude":"78.3103",
+     "Latitude": "15.6600",
+     "Article":"The Gani-Kalava Belt Copper Mine is near Nandyal, India. The Gani-Kalava Belt Copper Mine was closed at the time of data entry with no known plans to re-open. Documentation from 1978 describes a single ore body as having a lenticular or lens shaped form reaching 90 meters (295 feet) long and 2 meters (8 feet) wide.",
+     "more_info":"https://thediggings.com/mines/usgs10159917"
+    },
+    {"Mineral": "Lead",
+     "Mine": "Kotlur Lead Mine",
+     "State":"Andhra Pradesh",
+     "Longitude":"78.7503",
+     "Latitude": " 14.6001",
+     "Article":"The Kotlur Lead Mine is near Proddatur, India. The Kotlur Lead Mine was closed at the time of data entry with no known plans to re-open. Information from 1978 described the ore in stockwork veins of unknown dimensions.",
+     "more_info":"https://thediggings.com/mines/usgs10182626"
+    },
+    {"Mineral": "Phosphorus-Phosphates, Iron, Silica, Sulphur",
+     "Mine": "Kurnool Area: Gani Ghatte, Brahma Mine",
+     "State":"Andhra Pradesh",
+     "Longitude":"78.0503",
+     "Latitude": "15.8300",
+     "Article":"The Kurnool Area: Gani Ghatte, Brahma Mine is in Andhra Pradesh, India. The Kurnool Area: Gani Ghatte, Brahma Mine is a underground mining operation. The ore body is massive in form of unknown dimensions.",
+     "more_info":"https://thediggings.com/mines/usgs10182528"
+    },
+    {"Mineral": "Copper",
+     "Mine": "Kunchgarlaconda Copper Mines",
+     "State":"Andhra Pradesh",
+     "Longitude":" 79.3603",
+     "Latitude": " 14.8501",
+     "Article":"The Kunchgarlaconda Copper Mines are in Andhra Pradesh, India. The Kunchgarlaconda Copper Mines was closed at the time of data entry with no known plans to re-open. Information from 1978 described the ore body as having an unknown shape of unknown dimensions.",
+     "more_info":"https://thediggings.com/mines/usgs10182291"
+    },
+    {"Mineral": "Copper",
+     "Mine": "Holalagondi Copper Occurrence",
+     "State":"Andhra Pradesh",
+     "Longitude":"77.0504",
+     "Latitude": "15.4800",
+     "Article":"The Holalagondi Copper Occurrence is near Bellary, India. Ore mineralization has been found at this location, however the precise grade, tonnage, and extent of the mineralization are not known. There has been no production and little to no activity other than routine claim maintenance since the mineral discovery.",
+     "more_info":"https://thediggings.com/mines/usgs10279588"
+    },
+    {"Mineral": "Iron",
+     "Mine": "Rebampalli Iron Prospect",
+     "State":"Andhra Pradesh",
+     "Longitude":"79.4303",
+     "Latitude": "18.1298",
+     "Article":"The Rebampalli Iron Prospect is near Warangal, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. Information from 1978 described the ore as sedimentary in form of unknown dimensions.",
+     "more_info":"https://thediggings.com/mines/usgs10279678"
+    },
+    {"Mineral": "Iron",
+     "Mine": "Tresalmare-Ircola Iron Prospect",
+     "State":"Andhra Pradesh",
+     "Longitude":" 80.4303",
+     "Latitude": "16.2999",
+     "Article":"The Tresalmare-Ircola Iron Prospect is near Guntur, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. Information from 1978 described the ore as sedimentary in form of unknown dimensions.",
+     "more_info":"https://thediggings.com/mines/usgs10304297"
+    },
+    {"Mineral": "Copper",
+     "Mine": "Garimenpenta Copper Mine",
+     "State":"Andhra Pradesh",
+     "Longitude":"79.5003",
+     "Latitude": "14.9801",
+     "Article":"The Garimenpenta Copper Mine is in Andhra Pradesh, India. The Garimenpenta Copper Mine was closed at the time of data entry with no known plans to re-open. Information from 1978 described the ore body as having an unknown shape of unknown dimensions.",
+     "more_info":"https://thediggings.com/mines/usgs10303874"
+    },
+    {"Mineral": "Copper",
+     "Mine": "Guntur Copper Mine",
+     "State":"Andhra Pradesh",
+     "Longitude":"79.7503",
+     "Latitude": "16.1799",
+     "Article":"The Guntur Copper Mine is in Andhra Pradesh, India. The Guntur Copper Mine was closed at the time of data entry with no known plans to re-open. Information from 1978 described the ore in stockwork veins of unknown dimensions.",
+     "more_info":"https://thediggings.com/mines/usgs10304075"
+    },
+    {"Mineral": "Phosphorus-Phosphates, Iron, Manganese, Silica",
+     "Mine": "Kodur, Garbham, And Perapi Mines",
+     "State":"Andhra Pradesh",
+     "Longitude":" 83.5502",
+     "Latitude": "18.2747",
+     "Article":"The Kodur, Garbham, And Perapi Mines are near Vizianagaram, India. The Kodur, Garbham, And Perapi Mines was closed at the time of data entry with no known plans to re-open.",
+     "more_info":"https://thediggings.com/mines/usgs10304411"
+    },
+    {"Mineral": "Manganese",
+     "Mine": "Andhra Pradesh State",
+     "State":"Andhra Pradesh",
+     "Longitude":"83.4502",
+     "Latitude": "18.3664",
+     "Article":"The Andhra Pradesh State is near Vizianagaram, India.",
+     "more_info":"https://thediggings.com/mines/usgs60000575"
+    },
+    {"Mineral": "Aluminium",
+     "Mine": "Kondapelle Aluminum Prospect",
+     "State":"Andhra Pradesh",
+     "Longitude":"80.5003",
+     "Latitude": " 16.6099",
+     "Article":"The Kondapelle Aluminum Prospect is near Vijayawada, India. The site was first discovered in 1937. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. Mine operations consist of surface workings extending 320.00 hectares (790.74 acres). There is one known shaft. The mining method is strip-hillside. As of 1983 there were two known tabular shaped ore bodies one of which extends 16 meters (52 feet) thick 16 meters (52 feet) below the surface.",
+     "more_info":"https://thediggings.com/mines/usgs10279693"
+    },
+    {"Mineral": "Copper, Lead",
+     "Mine": "Cuddapah Copper Mine",
+     "State":"Andhra Pradesh",
+     "Longitude":" 78.9003",
+     "Latitude": "14.7601",
+     "Article":"The Cuddapah Copper Mine is near Proddatur, India. The Cuddapah Copper Mine was closed at the time of data entry with no known plans to re-open. Information from 1978 described the ore in stockwork veins of unknown dimensions.",
+     "more_info":"https://thediggings.com/mines/usgs10281082"
+    },
+    {
+      "Mineral": "Coal",
+      "Mine": "MAKUM COAL FIELD",
+      "State":"Assam",
+      "Latitude":"27.1600",
+      "Longitude": "95.5100",
+      "Article": "Can be approached by both rail and roadways. Railway line is linked with the Tinsukia junction. 29 Km long and 4.6 Km wide area. Coal bearing rocks belongs to the Tikak Parbat and Bargolai Formation.",
+      "more_info": "https://dgm.assam.gov.in/portlets/harnesing-minerals"
+  },
+  {
+      "Mineral": "Coal",
+      "Mine": "DILLI JEYPORE COALFIELD",
+      "State":"Assam",
+      "Latitude":"27.5000",
+      "Longitude": "95.1500",
+      "Article": "The coalfield is connected by a 12 Km road with Namrup railway station. The coalfield can also be approached from Sivsagar via Sonari and from Dibrugarh via Naharkatia and Duliajan. Area of 40 km. long and 0.50 km. Wide. Four distinct geological horizons belonging to Tikak Parbat Formation exist in this area where thicker seams of coal occur towards the bottom. About ten coal seams of various thickene sses ranging from 0.50m to 21m are located in the lowermost horizon. ",
+      "more_info": "https://dgm.assam.gov.in/portlets/harnesing-minerals"
+  },
+  {
+      "Mineral": "Coal",
+      "Mine": "SARAIPUNG TARAJAN COAL DEPOSITS",
+      "State":"Assam",
+      "Latitude":"27.1500",
+      "Longitude": "95.2500",
+      "Article": "5 Km SW of Bhadoi Panch Ali of Tinsukia district linked with Duliajan-Digboi road. Coal occurs intermittently along the strike length of 7 Km. ",
+      "more_info": "https://dgm.assam.gov.in/portlets/harnesing-minerals"
+  },
+  {
+      "Mineral": "Coal",
+      "Mine": "SHEELVETA",
+      "State":"Assam",
+      "Latitude":"26.0030",
+      "Longitude": "93.1835",
+      "Article": "40 Km northwest of Diphu and 110 Km southeast of Nagaon on NH-36 Two coal seams separated by carbonaceous shale. Average thickness of coal seam: 2.35m Area: 0.2 sq. Km..",
+      "more_info": "https://dgm.assam.gov.in/portlets/harnesing-minerals"
+  },
+  {
+      "Mineral": "Coal",
+      "Mine": "KOILAJAN",
+      "State":"Assam",
+      "Latitude":"25.5838",
+      "Longitude": "93.3330",
+      "Article": "8 Km NW of Dilai on ManjaSarihajan road. 1.8 m thick coal seam occurs within the Basal Sandstone Formation at Koliajan Nala covering an area of about 0.4 sq.km",
+      "more_info": "https://dgm.assam.gov.in/portlets/harnesing-minerals"
+  },
+  {
+      "Mineral": "Coal",
+      "Mine": "GARAMPANI",
+      "State":"Assam",
+      "Latitude":"25.3030",
+      "Longitude": "93.5702",
+      "Article": "Near Timang Basti and can be approached from Umrongsho through a metalled road. The coal occurs in association with Barail Sandstone Formation of Jaintia Group of rocks covering an area of 2.5 sq.Km. Three coal seams associated with Basal Sandstone are exposed intermittently along both the banks of Kopili river. The thickness of coal seams varies from 0.30 m to 1.5 m. ",
+      "more_info": "https://dgm.assam.gov.in/portlets/harnesing-minerals"
+  },
+  {
+      "Mineral": "Coal",
+      "Mine": "KHOTA ARDA COAL DEPOSIT",
+      "State":"Assam",
+      "Latitude":"25.4100",
+      "Longitude": "92.5500",
+      "Article": "The deposit can be approached by Dayanamukh – Dihangi road and situated at 35 km. south of Lanka railway station and 93 km. away from the district HQ Haflong. Two nos. of coal seams separated by a thin band of carbonaceous shale are exposed within Kopili Formation at Phanglangsho nala over an area of about 1.5 sq. Km. The thickness of coal seams varies from 0.50 to 1.00 m. ",
+      "more_info": "https://dgm.assam.gov.in/portlets/harnesing-minerals"
+  },
+  {
+      "Mineral": "Coal",
+      "Mine": "DITHOR COAL DEPOSIT",
+      "State":"Assam",
+      "Latitude":"25.2640",
+      "Longitude": "92.2730",
+      "Article": "The deposit is located near Umrangsho and can be approached by 6 km. long forest road from Lanka – Garampani Road. A small band of upper Eocene coal occurs within Kopili Formation of Jaintia Group of rocks. The thickness of coal seams varies from 0.20 m to 0.85m.",
+      "more_info": "https://dgm.assam.gov.in/portlets/harnesing-minerals"
+  },
+  {
+      "Mineral": "Limestone",
+      "Mine": "DILLAI PARBAT DEPOSIT",
+      "State":"Assam",
+      "Latitude":"26.0100",
+      "Longitude": "93.3440",
+      "Article": "Connected by metalled road about 19 Km from Bokajan railway station. Dillai Parbat Deposit is divided into two blocks, viz., East block and North block. ",
+      "more_info": "https://dgm.assam.gov.in/portlets/harnesing-minerals"
+  },
+  {
+      "Mineral": "Limestone",
+      "Mine": "SHEELVETA DEPOSIT",
+      "State":"Assam",
+      "Latitude":"26.0000",
+      "Longitude": "93.1735",
+      "Article": "On NH 36. 122 Km from Nagaon and 37 Km from Diphu railway station. Small bands of cement grade limestone occur.",
+      "more_info": "https://dgm.assam.gov.in/portlets/harnesing-minerals"
+  },
+  {
+      "Mineral": "Limestone",
+      "Mine": "KOILAJAN DEPOSIT",
+      "State":"Assam",
+      "Latitude":"25.5948",
+      "Longitude": "93.3340",
+      "Article": "25 Km from Dimapur railway station. Small to medium bands of limestone occur.",
+      "more_info": "https://dgm.assam.gov.in/portlets/harnesing-minerals"
+  },
+  {
+      "Mineral": "Limestone",
+      "Mine": "NEW UMRONGSHO DEPOSIT",
+      "State":"Assam",
+      "Latitude":"25.3100",
+      "Longitude": "92.5600",
+      "Article": "Near 18 Km post of Garampani -Lanka road. Two bands of limestone 30m and 50m thickness intervened by shale band.",
+      "more_info": "https://dgm.assam.gov.in/portlets/harnesing-minerals"
+  },
+  {
+      "Mineral": "Limestone",
+      "Mine": "16TH KM BLOCK",
+      "State":"Assam",
+      "Latitude":"25.3222",
+      "Longitude": "92.4620",
+      "Article": "In Umrongsho. 6 Km from Umrongsho and 12 Km from Lanka Covers a total area of 1.07 sq.Km. where the total thickness of limestone is 80 m. ",
+      "more_info": "https://dgm.assam.gov.in/portlets/harnesing-minerals"
+  },
+  {
+      "Mineral": "Limestone",
+      "Mine": "JUIPAHAR DEPOSIT",
+      "State":"Assam",
+      "Latitude":"25.3220",
+      "Longitude": "92.4610",
+      "Article": "Near Umrongsho-Lanka road in between 22 Km post and 23 km post. Occupies an area of about 6.5 sq. Km. ",
+      "more_info": "https://dgm.assam.gov.in/portlets/harnesing-minerals"
+  },
+  {
+      "Mineral": "Iron",
+      "Mine": "CHANDARDINGA",
+      "State":"Assam",
+      "Latitude":"26.2025",
+      "Longitude": "93.0355",
+      "Article": "Located on the north bank of river Brahmaputra and is about 2 km away from Salkocha Inspection Bunglow on NH 31. Three bands are found with thicknesses of 49.85 m, 16m, and 53 m. ",
+      "more_info": "https://dgm.assam.gov.in/portlets/harnesing-minerals"
+  },
+  {
+      "Mineral": "Iron",
+      "Mine": "LEN GUPARA",
+      "State":"Assam",
+      "Latitude":"26.0355",
+      "Longitude": "93.2850",
+      "Article": "15 km awa7 from agia along NH - 37 Occurs mainly on the hilltop forming a prominent ridge in the area. Two bands are found with a thickness of 10 m and 20 m respectively. ",
+      "more_info": "https://dgm.assam.gov.in/portlets/harnesing-minerals"
+  },
+  {
+      "Mineral": "Iron",
+      "Mine": "KUMRI ",
+      "State":"Assam",
+      "Latitude":"26.2500",
+      "Longitude": "93.3244",
+      "Article": "6 km west of Pancharatna. Exposed legally at western side of the hill. Two bands are found with a thickness ranging from 10 m to 16 m. ",
+      "more_info": "https://dgm.assam.gov.in/portlets/harnesing-minerals"
+  },
+  {
+      "Mineral": "Glass Sand",
+      "Mine": "JIAJURI",
+      "State":"Assam",
+      "Latitude":"26.1800",
+      "Longitude": "93.5355",
+      "Article": "3 km southeast of Chapanala, 12 km from Samuguri railway station and 25 km from Nagaon town via NH – 37.Covers an area of 2.9 Sq.km. However , detailed investigation of the deposit covered an area of 0.552 sq. km.",
+      "more_info": "https://dgm.assam.gov.in/portlets/harnesing-minerals"
+  },
+  {
+      "Mineral": "China Clay",
+      "Mine": "UPPER DEOPANI",
+      "State":"Assam",
+      "Latitude":"26.1427",
+      "Longitude": "93.4554",
+      "Article": "7.5 Km west of Safapani, Safapani is 24 Km from Bokajan railway station. Two good deposits at 500 m apart. Both slacking & non-slacking varieties present. Block-I: area = 0.4 sq. Km. Block-II: area = 0.043 sq. Km.",
+      "more_info": "https://dgm.assam.gov.in/portlets/harnesing-minerals"
+  },
+  {
+      "Mineral": "China Clay",
+      "Mine": "SHEELVETA",
+      "State":"Assam",
+      "Latitude":"26.0800",
+      "Longitude": "93.1800",
+      "Article": "Well connected by metal road to NH 36. Covers 0.25 Sq.Km. ",
+      "more_info": "https://dgm.assam.gov.in/portlets/harnesing-minerals"
+  },
+  {
+      "Mineral": "China Clay",
+      "Mine": "SILONIJAN",
+      "State":"Assam",
+      "Latitude":"26.1745",
+      "Longitude": "93.4618",
+      "Article": "8 Km from NH-39 near Silonijan. Covers an area of 5 sq. Km. Thickness ranges from 3– 6 m.",
+      "more_info": "https://dgm.assam.gov.in/portlets/harnesing-minerals"
+  },
+  {
+      "Mineral": "Granite",
+      "Mine": "MAHAMAYA",
+      "State":"Assam",
+      "Latitude":"26.1295",
+      "Longitude": "93.0400",
+      "Article": "Situated near Dokmoka beside NH 36 and 92 Km away from Diphu. Pink Granite. Massive, hard and fractured in nature. ",
+      "more_info": "https://dgm.assam.gov.in/portlets/harnesing-minerals"
+  },
+  {
+      "Mineral": "Granite",
+      "Mine": "CENTRE BAZAR",
+      "State":"Assam",
+      "Latitude":"26.1715",
+      "Longitude": "93.0930",
+      "Article": "Located beside NH 36 60 Km. away from Diphu. Pink Granite. Massive, hard and fractured in nature.",
+      "more_info": "https://dgm.assam.gov.in/portlets/harnesing-minerals"
+  },
+  {
+      "Mineral": "Granite",
+      "Mine": "BELLUGHAT",
+      "State":"Assam",
+      "Latitude":"26.3500",
+      "Longitude": "93.4500",
+      "Article": "14 km. away from Dokomoka along NH 36. Light colourd, coarse to medium grained, massive and gray granite.",
+      "more_info": "https://dgm.assam.gov.in/portlets/harnesing-minerals"
+  },
+  {
+      "Mineral": "Granite",
+      "Mine": "SILONIJAN",
+      "State":"Assam",
+      "Latitude":"26.1925",
+      "Longitude": "93.4400",
+      "Article": "The area is connected by an all weather road stretching west of proper Silonijan along NH 39. Massive, dark pink, coarse and fractured with hypidiomorphic texture and located is an isolated pocket. ",
+      "more_info": "https://dgm.assam.gov.in/portlets/harnesing-minerals"
+  },
+  {
+      "Mineral": "Granite",
+      "Mine": "BORJURI ",
+      "State":"Assam",
+      "Latitude":"26.0330",
+      "Longitude": "93.0325",
+      "Article": "The area is connected by a fair weather road of 3 km stretching from Kathiatoli – salna road and situated at a distance of 20 km from Nagaon and about 180 km from the district H.Q. Diphu. Black in colour, hard, massive, fine grained and well fractured. ",
+      "more_info": "https://dgm.assam.gov.in/portlets/harnesing-minerals"
+  },
+  {
+      "Mineral": "Granite",
+      "Mine": "DUDHKURI HILL",
+      "State":"Assam",
+      "Latitude":"26.0010",
+      "Longitude": "91.1615",
+      "Article": "Nearby Boko and about 55 km west of Guwahati along NH 37. Light Pink. Hard and massive in nature.",
+      "more_info": "https://dgm.assam.gov.in/portlets/harnesing-minerals"
+  },
+  {
+      "Mineral": "Granite",
+      "Mine": "AGCHIA HILL",
+      "State":"Assam",
+      "Latitude":"26.0800",
+      "Longitude": "91.1700",
+      "Article": "Situated at a distance of 50 km west of Guwahati along NH 37.Pink Granite. Hard and massive in nature ",
+      "more_info": "https://dgm.assam.gov.in/portlets/harnesing-minerals"
+  },
+  {
+      "Mineral": "Granite",
+      "Mine": "DAMAL- SAPLENGKATA",
+      "State":"Assam",
+      "Latitude":"26.0024",
+      "Longitude": "90.2940",
+      "Article": "8 km south of Agia. Greenish black. Hard and massive in nature.",
+      "more_info": "https://dgm.assam.gov.in/portlets/harnesing-minerals"
+  },
+  {
+      "Mineral": "Granite",
+      "Mine": "KAKIRA",
+      "State":"Assam",
+      "Latitude":"26.0300",
+      "Longitude": "90.3435",
+      "Article": "3 km away from Balbola an about 17 km from Goalpara town. Greenish black Hard, massive granite. ",
+      "more_info": "https://dgm.assam.gov.in/portlets/harnesing-minerals"
+  },
+  {
+      "Mineral": "Granite",
+      "Mine": "KHUTAMARI",
+      "State":"Assam",
+      "Latitude":"26.3127",
+      "Longitude": "90.3050",
+      "Article": "14 km SW of Goalpara and 6 km away from Pancharatna Black Granite. Hard, massive granite. ",
+      "more_info": "https://dgm.assam.gov.in/portlets/harnesing-minerals"
+  },
+  {
+      "Mineral": "Granite",
+      "Mine": "PAGLATEK",
+      "State":"Assam",
+      "Latitude":"26.1048",
+      "Longitude": "90.3125",
+      "Article": "16 Km southwest of Goalpara and 8 km Away from Pancharatna Black Granite. Hard, massive granite. ",
+      "more_info": "https://dgm.assam.gov.in/portlets/harnesing-minerals"
+  },
+
+  {
+    "Mineral": "Aluminium",
+    "Mine": "Manduapat Aluminum Mine",
+    "State":"Bihar",
+    "Latitude":"24.7594",
+    "Longitude": "85.5923",
+    "Article": "The Manduapat Aluminum Mine is in Bihar, India.",
+    "more_info": "https://thediggings.com/mines/usgs10106684"
+},
+{
+    "Mineral": "Copper",
+    "Mine": "Pathatgora Copper Mine",
+    "State":"Bihar",
+    "Latitude":"24.7594",
+    "Longitude": "85.5923",
+    "Article": "The Pathatgora Copper Mine is in Bihar, India.",
+    "more_info": "https://thediggings.com/mines/usgs10106686"
+},
+{
+    "Mineral": "Aluminium",
+    "Mine": "Bagru Hills Mine",
+    "State":"Bihar",
+    "Latitude":"24.7594",
+    "Longitude": "85.5923",
+    "Article": "The Bagru Hills Mine is in Bihar, India.",
+    "more_info": "https://thediggings.com/mines/usgs10021419"
+},
+{
+    "Mineral": "Vanadium",
+    "Mine": "Bihar Vanadium Occurrence",
+    "State":"Bihar",
+    "Latitude":"25.2158",
+    "Longitude": "85.5168",
+    "Article": "The Bihar Vanadium Occurrence is in Bihar, India. Ore mineralization has been found at this location, however the precise grade, tonnage, and extent of the mineralization are not known. There has been no production and little to no activity other than routine claim maintenance since the mineral discovery.",
+    "more_info": "https://thediggings.com/mines/usgs10024950"
+},
+{
+    "Mineral": "Copper",
+    "Mine": "Mosaboni Copper Mine",
+    "State":"Bihar",
+    "Latitude":"24.7594",
+    "Longitude": "85.5923",
+    "Article": "The Mosaboni Copper Mine is in Bihar, India.",
+    "more_info": "https://thediggings.com/mines/usgs10021427"
+},
+{
+    "Mineral": "Copper",
+    "Mine": "Rakha Copper Mine",
+    "State":"Bihar",
+    "Latitude":"24.7594",
+    "Longitude": "85.5923",
+    "Article": "The Rakha Copper Mine is in Bihar, India.",
+    "more_info": "https://thediggings.com/mines/usgs10021428"
+},
+{
+    "Mineral": "Copper",
+    "Mine": "Surda Copper Mine",
+    "State":"Bihar",
+    "Latitude":" 24.7594",
+    "Longitude": "85.5923",
+    "Article": "The Surda Copper Mine is in Bihar, India.",
+    "more_info": "https://thediggings.com/mines/usgs10021429"
+},
+{
+    "Mineral": "Molybdenum",
+    "Mine": "Jaduguda Copper Mine",
+    "State":"Bihar",
+    "Latitude":"24.7594",
+    "Longitude": "85.5923",
+    "Article": "The Jaduguda Copper Mine is in Bihar, India.",
+    "more_info": "https://thediggings.com/mines/usgs10021440"
+},
+{
+    "Mineral": "Copper",
+    "Mine": "Jaduguda Copper Mine",
+    "State":"Bihar",
+    "Latitude":"24.7594",
+    "Longitude": "85.5923",
+    "Article": "The Jaduguda Copper Mine is in Bihar, India.",
+    "more_info": "https://thediggings.com/mines/usgs10021440"
+},
+{
+    "Mineral": "Uranium",
+    "Mine": "Jaduguda Copper Mine",
+    "State":"Bihar",
+    "Latitude":"24.7594",
+    "Longitude": "85.5923",
+    "Article": "The Jaduguda Copper Mine is in Bihar, India.",
+    "more_info": "https://thediggings.com/mines/usgs10021440"
+},
+{
+    "Mineral": "Aluminum",
+    "Mine": "Lohardaga Aluminum Occurrence",
+    "State":"Bihar",
+    "Latitude":"24.7594",
+    "Longitude": "85.5923",
+    "Article": "The Lohardaga Aluminum Occurrence is in Bihar, India. Ore mineralization has been found at this location, however the precise grade, tonnage, and extent of the mineralization are not known. There has been no production and little to no activity other than routine claim maintenance since the mineral discovery. The host rock in this area is gneiss.",
+    "more_info": "https://thediggings.com/mines/usgs10022498"
+},
+{
+    "Mineral": "Aluminum",
+    "Mine": "Ranchi-Palamau Aluminum Occurrence",
+    "State":"Bihar",
+    "Latitude":"24.7594",
+    "Longitude": "85.5923",
+    "Article": "The Ranchi-Palamau Aluminum Occurrence is in Bihar, India. Ore mineralization has been found at this location, however the precise grade, tonnage, and extent of the mineralization are not known. There has been no production and little to no activity other than routine claim maintenance since the mineral discovery.",
+    "more_info": "https://thediggings.com/mines/usgs10022576"
+},
+{
+    "Mineral": "Copper",
+    "Mine": "Sonthalia Lead Prospect",
+    "State":"Bihar",
+    "Latitude":"24.3992",
+    "Longitude": "86.3801",
+    "Article": "The Sonthalia Lead Prospect is in Bihar, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. Information from 1978 described the ore body as having an unknown shape 100 meters (328 feet) long and 9 meters (29 feet) thick.",
+    "more_info": "https://thediggings.com/mines/usgs10159004"
+},
+{
+    "Mineral": "Silver",
+    "Mine": "Sonthalia Lead Prospect",
+    "State":"Bihar",
+    "Latitude":"24.3992",
+    "Longitude": "86.3801",
+    "Article": "The Sonthalia Lead Prospect is in Bihar, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. Information from 1978 described the ore body as having an unknown shape 100 meters (328 feet) long and 9 meters (29 feet) thick.",
+    "more_info": "https://thediggings.com/mines/usgs10159004"
+},
+{
+    "Mineral": "Lead",
+    "Mine": "Sonthalia Lead Prospect",
+    "State":"Bihar",
+    "Latitude":"24.3992",
+    "Longitude": "86.3801",
+    "Article": "The Sonthalia Lead Prospect is in Bihar, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. Information from 1978 described the ore body as having an unknown shape 100 meters (328 feet) long and 9 meters (29 feet) thick.",
+    "more_info": "https://thediggings.com/mines/usgs10159004"
+},
+{
+    "Mineral": "Zinc",
+    "Mine": "Sonthalia Lead Prospect",
+    "State":"Bihar",
+    "Latitude":"24.3992",
+    "Longitude": "86.3801",
+    "Article": "The Sonthalia Lead Prospect is in Bihar, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. Information from 1978 described the ore body as having an unknown shape 100 meters (328 feet) long and 9 meters (29 feet) thick.",
+    "more_info": "https://thediggings.com/mines/usgs10159004"
+},
+{
+    "Mineral": "Copper",
+    "Mine": "Bhairukhi Copper Mine",
+    "State":"Bihar",
+    "Latitude":"24.5992",
+    "Longitude": "86.6001",
+    "Article": "The Bhairukhi Copper Mine is in Bihar, India. The Bhairukhi Copper Mine was closed at the time of data entry with no known plans to re-open. Information from 1978 described the ore body as having an unknown shape 1 meter (2.47 feet) thick.",
+    "more_info": "https://thediggings.com/mines/usgs10184042"
+},
+{
+    "Mineral": "Iron",
+    "Mine": "Chirla Iron Prospect",
+    "State":"Bihar",
+    "Latitude":"24.9992",
+    "Longitude": "86.0002",
+    "Article": "The Chirla Iron Prospect is in Bihar, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage.",
+    "more_info": "https://thediggings.com/mines/usgs10279457"
+},
+{
+  "Mineral": "Aluminum",
+  "Mine": "Bauxite-India Aluminum Prospect",
+  "State":"Chattisgarh",
+  "Latitude":"22.6660",
+  "Longitude": "81.7669",
+  "Article": "The Bauxite-India Aluminum Prospect is in Chhattisgarh, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. Mine operations consist of workings of unknown type extending 100.00 hectares (247.11 acres). There is one known shaft. The ore mined is composed of bauxite. The ore body has a lenticular or lens shaped form and is found 8 meters (26 feet) below the surface. The host rock in this area is basalt.",
+  "more_info": "https://thediggings.com/mines/usgs10068660"
+},
+{
+  "Mineral": "Aluminum",
+  "Mine": "Bauxite-India Aluminum Prospect",
+  "State":"Chattisgarh",
+  "Latitude":"22.6660",
+  "Longitude": "81.7669",
+  "Article": "The Bauxite-India Aluminum Prospect is in Chhattisgarh, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. Mine operations consist of workings of unknown type extending 131.00 hectares (323.71 acres). There is one known shaft. The ore mined is composed of bauxite. The ore body has a lenticular or lens shaped form of unknown dimensions. The host rock in this area is basalt.",
+  "more_info": "https://thediggings.com/mines/usgs10068661"
+},
+{
+  "Mineral": "Aluminum",
+  "Mine": "Bauxite-India Aluminum Prospect",
+  "State":"Chattisgarh",
+  "Latitude":"22.6660",
+  "Longitude": "81.7669",
+  "Article": "The Bauxite-India Aluminum Prospect is in Chhattisgarh, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. Mine operations consist of workings of unknown type. There is one known shaft. The ore mined is composed of bauxite. The ore body has a lenticular or lens shaped form and is found 5 meters (16 feet) below the surface. The host rock in this area is basalt.",
+  "more_info": "https://thediggings.com/mines/usgs10068662"
+},
+{
+  "Mineral": "Aluminum",
+  "Mine": "Bauxite-India Aluminum Occurrence",
+  "State":"Chattisgarh",
+  "Latitude":"22.5660",
+  "Longitude": "82.7669",
+  "Article": "The Bauxite-India Aluminum Occurrence is in Chhattisgarh, India. The site was first discovered in 1941 by Am. N. Ghosh. Ore mineralization has been found at this location, however the precise grade, tonnage, and extent of the mineralization are not known. There has been no production and little to no activity other than routine claim maintenance since the mineral discovery. The ore mined is composed of bauxite. The ore body is described as tabular shaped 5.00 meters (16.40 feet) thick 0.05 meters (0.16 feet) below the surface. The host rock in this area is basalt.",
+  "more_info": "https://thediggings.com/mines/usgs10068668"
+},
+{
+  "Mineral": "Aluminium",
+  "Mine": "Bauxite-India Aluminum Occurrence",
+  "State":"Chattisgarh",
+  "Latitude":"21.8328",
+  "Longitude": "81.1669",
+  "Article": "The Bauxite-India Aluminum Occurrence is in Chhattisgarh, India. Ore mineralization has been found at this location, however the precise grade, tonnage, and extent of the mineralization are not known. There has been no production and little to no activity other than routine claim maintenance since the mineral discovery. The ore mined is composed of bauxite. The host rock in this area is basalt.",
+  "more_info": "https://thediggings.com/mines/usgs10093356"
+},
+{
+  "Mineral": "Aluminium",
+  "Mine": "Bauxite-India Aluminum Occurrence",
+  "State":"Chattisgarh",
+  "Latitude":"22.6660",
+  "Longitude": "81.7669",
+  "Article": "The Bauxite-India Aluminum Occurrence is in Chhattisgarh, India. Ore mineralization has been found at this location, however the precise grade, tonnage, and extent of the mineralization are not known. There has been no production and little to no activity other than routine claim maintenance since the mineral discovery. The ore mined is composed of bauxite. The ore body is described as tabular shaped of unknown dimensions. Associated rock in this area is basalt from the Eocene epoch 56.00 to 33.90 million years ago.",
+  "more_info": "https://thediggings.com/mines/usgs10093357"
+},
+{
+  "Mineral": "Aluminium",
+  "Mine": "Bauxite-India Aluminum Prospect",
+  "State":"Chattisgarh",
+  "Latitude":"22.7660",
+  "Longitude": "83.2169",
+  "Article": "The Bauxite-India Aluminum Prospect is in Chhattisgarh, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. The ore mined is composed of bauxite. The ore body is described as having an irregular shape of unknown dimensions. The host rock in this area is basalt from the Upper Cretaceous epoch 100.50 to 66.00 million years ago.",
+  "more_info": "https://thediggings.com/mines/usgs10097400"
+},
+{
+  "Mineral": "Iron",
+  "Mine": "Bailadila Iron Mine",
+  "State":"Chattisgarh",
+  "Latitude":" 18.6164",
+  "Longitude": "81.2336",
+  "Article": "The Bailadila Iron Mine is in Chhattisgarh, India. The ore mined is composed of hematite. The host rock in this area is quartzite",
+  "more_info": "https://thediggings.com/mines/usgs10084921"
+},
+{
+  "Mineral": "Iron",
+  "Mine": "Bailadila No. 11-C Mine",
+  "State":"Chattisgarh",
+  "Latitude":"18.6830",
+  "Longitude": "81.2169",
+  "Article": "The Bailadila No. 11-C Mine is in Chhattisgarh, India. The ore mined is composed of hematite. The host rock in this area is quartzite.",
+  "more_info": "https://thediggings.com/mines/usgs10084922"
+},
+{
+  "Mineral": "Iron",
+  "Mine": "Bailadila Iron Mine",
+  "State":"Chattisgarh",
+  "Latitude":"18.6830",
+  "Longitude": "81.2003",
+  "Article": "The Bailadila Iron Mine is in Chhattisgarh, India. The ore mined is composed of hematite. The host rock in this area is quartzite.",
+  "more_info": "https://thediggings.com/mines/usgs10084923"
+},
+{
+  "Mineral": "Iron",
+  "Mine": "Kauchar Iron Deposit",
+  "State":"Chattisgarh",
+  "Latitude":"20.4795",
+  "Longitude": "80.9803",
+  "Article": "The Kauchar Iron Deposit is in Chhattisgarh, India. Information from 1978 described the ore body as having an unknown shape and extends 3,200 meters (10,498 feet) long and 200 meters (656 feet) wide.",
+  "more_info": "https://thediggings.com/mines/usgs10134359"
+},
+{
+  "Mineral": "Copper",
+  "Mine": "Donkra Copper Occurrence",
+  "State":"Chattisgarh",
+  "Latitude":"22.6094",
+  "Longitude": "83.9102",
+  "Article": "The Donkra Copper Occurrence is in Chhattisgarh, India. Ore mineralization has been found at this location, however the precise grade, tonnage, and extent of the mineralization are not known. There has been no production and little to no activity other than routine claim maintenance since the mineral discovery.",
+  "more_info": "https://thediggings.com/mines/usgs10255703"
+},
+{
+  "Mineral": "Copper",
+  "Mine": "Hirakud Dam Zinc Occurrence",
+  "State":"Chattisgarh",
+  "Latitude":"21.5294",
+  "Longitude": "82.8602",
+  "Article": "The Hirakud Dam Zinc Occurrence is in Chhattisgarh, India. Ore mineralization has been found at this location, however the precise grade, tonnage, and extent of the mineralization are not known. There has been no production and little to no activity other than routine claim maintenance since the mineral discovery. Information from 1978 described the ore body as having an unknown shape reaching 0.10 meters (0.33 feet) in length.",
+  "more_info": "https://thediggings.com/mines/usgs10255919"
+},
+{
+  "Mineral": "Lead",
+  "Mine": "Hirakud Dam Zinc Occurrence",
+  "State":"Chattisgarh",
+  "Latitude":"21.5294",
+  "Longitude": "82.8602",
+  "Article": "The Hirakud Dam Zinc Occurrence is in Chhattisgarh, India. Ore mineralization has been found at this location, however the precise grade, tonnage, and extent of the mineralization are not known. There has been no production and little to no activity other than routine claim maintenance since the mineral discovery. Information from 1978 described the ore body as having an unknown shape reaching 0.10 meters (0.33 feet) in length.",
+  "more_info": "https://thediggings.com/mines/usgs10255919"
+},
+{
+  "Mineral": "Zinc",
+  "Mine": "Hirakud Dam Zinc Occurrence",
+  "State":"Chattisgarh",
+  "Latitude":"21.5294",
+  "Longitude": "82.8602",
+  "Article": "The Hirakud Dam Zinc Occurrence is in Chhattisgarh, India. Ore mineralization has been found at this location, however the precise grade, tonnage, and extent of the mineralization are not known. There has been no production and little to no activity other than routine claim maintenance since the mineral discovery. Information from 1978 described the ore body as having an unknown shape reaching 0.10 meters (0.33 feet) in length.",
+  "more_info": "https://thediggings.com/mines/usgs10255919"
+},
+{
+  "Mineral": "Phosphorus-Phosphates",
+  "Mine": "Rowghat No. 1-No. 6 Iron Prospect",
+  "State":"Chattisgarh",
+  "Latitude":" 19.7096",
+  "Longitude": "81.2303",
+  "Article": "The Rowghat No. 1-No. 6 Iron Prospect is in Chhattisgarh, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. Information from 1978 described the ore as sedimentary in form of unknown dimensions.",
+  "more_info": "https://thediggings.com/mines/usgs10206812"
+},
+{
+  "Mineral": "Iron",
+  "Mine": "Rowghat No. 1-No. 6 Iron Prospect",
+  "State":"Chattisgarh",
+  "Latitude":" 19.7096",
+  "Longitude": "81.2303",
+  "Article": "The Rowghat No. 1-No. 6 Iron Prospect is in Chhattisgarh, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. Information from 1978 described the ore as sedimentary in form of unknown dimensions.",
+  "more_info": "https://thediggings.com/mines/usgs10206812"
+},
+{
+  "Mineral": "Silicates",
+  "Mine": "Rowghat No. 1-No. 6 Iron Prospect",
+  "State":"Chattisgarh",
+  "Latitude":" 19.7096",
+  "Longitude": "81.2303",
+  "Article": "The Rowghat No. 1-No. 6 Iron Prospect is in Chhattisgarh, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. Information from 1978 described the ore as sedimentary in form of unknown dimensions.",
+  "more_info": "https://thediggings.com/mines/usgs10206812"
+},
+{
+  "Mineral": "Copper",
+  "Mine": "Simurkocha Copper Occurrence",
+  "State":"Chattisgarh",
+  "Latitude":"22.5794",
+  "Longitude": "83.8502",
+  "Article": "The Simurkocha Copper Occurrence is in Chhattisgarh, India. Ore mineralization has been found at this location, however the precise grade, tonnage, and extent of the mineralization are not known. There has been no production and little to no activity other than routine claim maintenance since the mineral discovery.",
+  "more_info": "https://thediggings.com/mines/usgs10230859"
+},
+{
+  "Mineral": "Iron",
+  "Mine": "Bailadila Iron Mine",
+  "State":"Chattisgarh",
+  "Latitude":" 18.6080",
+  "Longitude": " 81.2420",
+  "Article": "The Bailadila Iron Mine is in Chhattisgarh, India. The site was first discovered in 1899. The Bailadila Iron Mine is a surface mining operation. Initial production took place in 1968. Mine operations consist of surface workings extending 70.00 hectares (172.97 acres). There is one known shaft. The mining method is open pit. Mine capacity in 1982 was 16400 mt ore/day with a production unit cost of 4.28 $/mt ore. As of 1986 there was one documented tabular shaped ore body extending 1,400 meters (4,593 feet) long, 500 meters (1,640 feet) wide, and 200 meters (656 feet) thick.",
+  "more_info": "https://thediggings.com/mines/usgs10230870"
+},
+{
+  "Mineral": "Iron",
+  "Mine": "Kankar Iron Prospect",
+  "State":"Chattisgarh",
+  "Latitude":"20.6995",
+  "Longitude": "80.6303",
+  "Article": "The Kankar Iron Prospect is in Chhattisgarh, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. Information from 1978 described the ore as sedimentary in form of unknown dimensions.",
+  "more_info": "https://thediggings.com/mines/usgs10231260"
+},
+{
+  "Mineral": "Lead",
+  "Mine": "Sargipali Mill",
+  "State":"Chattisgarh",
+  "Latitude":"23.0493",
+  "Longitude": "83.9169",
+  "Article": "The Sargipali Mill is in Chhattisgarh, India. The Sargipali Mill is a underground mining operation.",
+  "more_info": "https://thediggings.com/mines/usgs10231465"
+},
+{
+  "Mineral": "Copper",
+  "Mine": "Sargipali Mill",
+  "State":"Chattisgarh",
+  "Latitude":"23.0493",
+  "Longitude": "83.9169",
+  "Article": "The Sargipali Mill is in Chhattisgarh, India. The Sargipali Mill is a underground mining operation.",
+  "more_info": "https://thediggings.com/mines/usgs10231465"
+},
+{
+  "Mineral": "Silver",
+  "Mine": "Sargipali Mill",
+  "State":"Chattisgarh",
+  "Latitude":"23.0493",
+  "Longitude": "83.9169",
+  "Article": "The Sargipali Mill is in Chhattisgarh, India. The Sargipali Mill is a underground mining operation.",
+  "more_info": "https://thediggings.com/mines/usgs10231465"
+},
+{
+  "Mineral": "Iron",
+  "Mine": "Kondapal Iron Prospect",
+  "State":"Chattisgarh",
+  "Latitude":"20.6995",
+  "Longitude": "80.6303",
+  "Article": "The Kondapal Iron Prospect is in Chhattisgarh, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. Information from 1978 described the ore as sedimentary in form of unknown dimensions.",
+  "more_info": "https://thediggings.com/mines/usgs10158589"
+},
+{
+  "Mineral": "Aluminium",
+  "Mine": "Korba Refinery",
+  "State":"Chattisgarh",
+  "Latitude":"22.3661",
+  "Longitude": "82.7669",
+  "Article": "The Korba Refinery is in Chhattisgarh, India. The Korba Refinery is a processing plant. Initial production took place in 1975.",
+  "more_info": "https://thediggings.com/mines/usgs10183579"
+},
+{
+  "Mineral": "Copper",
+  "Mine": "Wararband Copper Occurrence",
+  "State":"Chattisgarh",
+  "Latitude":" 21.0595",
+  "Longitude": "80.8303",
+  "Article": "The Wararband Copper Occurrence is in Chhattisgarh, India. Ore mineralization has been found at this location, however the precise grade, tonnage, and extent of the mineralization are not known. There has been no production and little to no activity other than routine claim maintenance since the mineral discovery.",
+  "more_info": "https://thediggings.com/mines/usgs10183599"
+},
+{
+  "Mineral": "Iron",
+  "Mine": "Bailadila Open Pit Iron Mine",
+  "State":"Chattisgarh",
+  "Latitude":" 18.6958",
+  "Longitude": "81.1950",
+  "Article": "The Bailadila Open Pit Iron Mine is in Chhattisgarh, India. The site was first discovered in 1899. The Bailadila Open Pit Iron Mine is a surface mining operation. Initial production took place in 1977. Mine operations consist of surface workings extending 122.00 hectares (301.47 acres). There is one known shaft. The mining method is open pit. Mine capacity in 1982 was 18400 mt ore/day with a production unit cost of 4.92 $/mt ore. As of 1986 there was one documented tabular shaped ore body extending 3,500 meters (11,482 feet) long, 350 meters (1,148 feet) wide, and 300 meters (984 feet) thick.",
+  "more_info": "https://thediggings.com/mines/usgs10279861"
+},
+{
+  "Mineral": "Copper",
+  "Mine": "Mundatikra Gossanized Belt Copper Prospect",
+  "State":"Chattisgarh",
+  "Latitude":"19.4596",
+  "Longitude": "81.3103",
+  "Article": "The Mundatikra Gossanized Belt Copper Prospect is in Chhattisgarh, India. The site was first discovered in 1959. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. Information from 1978 described the ore body as having an unknown shape and extends 4,000 meters (13,123 feet) long and 150 meters (492 feet) wide.",
+  "more_info": "https://thediggings.com/mines/usgs10304158"
+},
+{
+  "Mineral": "Lithium",
+  "Mine": "Govindpal Area",
+  "State":"Chattisgarh",
+  "Latitude":"18.6997",
+  "Longitude": "81.9002",
+  "Article": "The Govindpal Area is in Chhattisgarh, India",
+  "more_info": "https://thediggings.com/mines/usgs60000714"
+},
+{
+  "Mineral": "Sulfur",
+  "Mine": "Dhalli-Rajhara Silica Mine",
+  "State":"Chattisgarh",
+  "Latitude":" 21.1995",
+  "Longitude": "81.2803",
+  "Article": "The Dhalli-Rajhara Silica Mine is near Bhilai, India. The Dhalli-Rajhara Silica Mine was closed at the time of data entry with no known plans to re-open. Information from 1978 described the ore as sedimentary in form of unknown dimensions.",
+  "more_info": "https://thediggings.com/mines/usgs10279757"
+},
+{
+  "Mineral": "Silica",
+  "Mine": "Dhalli-Rajhara Silica Mine",
+  "State":"Chattisgarh",
+  "Latitude":" 21.1995",
+  "Longitude": "81.2803",
+  "Article": "The Dhalli-Rajhara Silica Mine is near Bhilai, India. The Dhalli-Rajhara Silica Mine was closed at the time of data entry with no known plans to re-open. Information from 1978 described the ore as sedimentary in form of unknown dimensions.",
+  "more_info": "https://thediggings.com/mines/usgs10279757"
+},
+{
+  "Mineral": "Iron",
+  "Mine": "Dhalli-Rajhara Silica Mine",
+  "State":"Chattisgarh",
+  "Latitude":" 21.1995",
+  "Longitude": "81.2803",
+  "Article": "The Dhalli-Rajhara Silica Mine is near Bhilai, India. The Dhalli-Rajhara Silica Mine was closed at the time of data entry with no known plans to re-open. Information from 1978 described the ore as sedimentary in form of unknown dimensions.",
+  "more_info": "https://thediggings.com/mines/usgs10279757"
+},
+{
+  "Mineral": "Phosphorus-Phosphates",
+  "Mine": "Dhalli-Rajhara Silica Mine",
+  "State":"Chattisgarh",
+  "Latitude":" 21.1995",
+  "Longitude": "81.2803",
+  "Article": "The Dhalli-Rajhara Silica Mine is near Bhilai, India. The Dhalli-Rajhara Silica Mine was closed at the time of data entry with no known plans to re-open. Information from 1978 described the ore as sedimentary in form of unknown dimensions.",
+  "more_info": "https://thediggings.com/mines/usgs10279757"
+},
+{
+  "Mineral": "Copper",
+  "Mine": "Chicholi Copper Occurrence",
+  "State":"Chattisgarh",
+  "Latitude":"21.0595",
+  "Longitude": "80.6603",
+  "Article": "The Chicholi Copper Occurrence is in Chhattisgarh, India. Ore mineralization has been found at this location, however the precise grade, tonnage, and extent of the mineralization are not known. There has been no production and little to no activity other than routine claim maintenance since the mineral discovery.",
+  "more_info": "https://thediggings.com/mines/usgs10304322"
+},
+{
+  "Mineral": "Manganese",
+  "Mine": "Rivona Manganese Mine",
+  "State":"Goa",
+  "Latitude":"15.1667",
+  "Longitude": "74.1088",
+  "Article": "The Rivona Manganese Mine is in Goa, India. The Rivona Manganese Mine was closed at the time of data entry with no known plans to re-open. Production size when active was considered to be small. The ore mined is composed of pyrolusite, manganite and braunite with waste material consisting primarily of chlorite, quartz and goethite. The ore body has a lenticular or lens shaped form of unknown dimensions. Associated rock in this area is gneiss.",
+  "more_info": "https://thediggings.com/mines/usgs10097587"
+},
+{
+  "Mineral": "Manganese",
+  "Mine": "Naveli Manganese Mine",
+  "State":"Goa",
+  "Latitude":"15.1334",
+  "Longitude": " 74.1671",
+  "Article": "The Naveli Manganese Mine is in Goa, India. Production output of the Naveli Manganese Mine was considered to be small size. The ore mined is composed of jacobsite, braunite and manganite with waste material consisting primarily of quartz, chlorite and sericite. The ore body has a lenticular or lens shaped form of unknown dimensions. Associated rock in this area is gneiss.",
+  "more_info": "https://thediggings.com/mines/usgs10106593"
+},
+{
+  "Mineral": "Iron",
+  "Mine": "Chowgule Iron Mine",
+  "State":"Goa",
+  "Latitude":"15.3591",
+  "Longitude": "74.0801",
+  "Article": "The Chowgule Iron Mine is near Panaji, India.",
+  "more_info": "https://thediggings.com/mines/usgs10106687"
+},
+{
+  "Mineral": "Iron",
+  "Mine": "Sancordem Iron Mine",
+  "State":"Goa",
+  "Latitude":"15.3591",
+  "Longitude": "74.0801",
+  "Article": "The Sancordem Iron Mine is near Panaji, India.",
+  "more_info": "https://thediggings.com/mines/usgs10106688"
+},
+{
+  "Mineral": "Manganese",
+  "Mine": "Cavarem Manganese Mine",
+  "State":"Goa",
+  "Latitude":"15.1251",
+  "Longitude": "74.1421",
+  "Article": "The Cavarem Manganese Mine is in Goa, India. Production output of the Cavarem Manganese Mine was considered to be small size. The ore mined is composed of pyrolusite, jacobsite and manganite with waste material consisting primarily of sericite, goethite and quartz. The ore body has a lenticular or lens shaped form of unknown dimensions. The host rock in this area is phyllite.",
+  "more_info": "https://thediggings.com/mines/usgs10003841"
+},
+{
+  "Mineral": "Manganese",
+  "Mine": "Netravli Manganese Mine",
+  "State":"Goa",
+  "Latitude":"15.0889",
+  "Longitude": "74.2088",
+  "Article": "The Netravli Manganese Mine is in Goa, India. Production output of the Netravli Manganese Mine was considered to be small size. The ore mined is composed of jacobsite, pyrolusite and manganite with waste material consisting primarily of quartz, goethite and chlorite. The ore body has a lenticular or lens shaped form of unknown dimensions. The host rock in this area is phyllite.",
+  "more_info": "https://thediggings.com/mines/usgs10003860"
+},
+{
+  "Mineral": "Manganese",
+  "Mine": "Salgini Manganese Mine",
+  "State":"Goa",
+  "Latitude":"15.0084",
+  "Longitude": "74.2504",
+  "Article": "The Salgini Manganese Mine is in Goa, India. Production output of the Salgini Manganese Mine was considered to be small size. The ore mined is composed of pyrolusite, braunite and manganite with waste material consisting primarily of chlorite, quartz and sericite. The ore body has a lenticular or lens shaped form of unknown dimensions. The host rock in this area is phyllite.",
+  "more_info": "https://thediggings.com/mines/usgs10003866"
+},
+{
+  "Mineral": "Manganese",
+  "Mine": "Viliena Manganese Mine",
+  "State":"Goa",
+  "Latitude":"15.1667",
+  "Longitude": " 74.2504",
+  "Article": "The Viliena Manganese Mine is in Goa, India. Production output of the Viliena Manganese Mine was considered to be small size. The ore mined is composed of braunite, manganite and pyrolusite with waste material consisting primarily of sericite, chlorite and goethite. The ore body has a lenticular or lens shaped form of unknown dimensions. The host rock in this area is phyllite.",
+  "more_info": "https://thediggings.com/mines/usgs10003874"
+},
+{
+  "Mineral": "Iron",
+  "Mine": "Bicholim-Srirgao Mine",
+  "State":"Goa",
+  "Latitude":"15.3591",
+  "Longitude": "74.0801",
+  "Article": "The Bicholim-Srirgao Mine is near Panaji, India.",
+  "more_info": "https://thediggings.com/mines/usgs10021430"
+},
+{
+  "Mineral": "Iron",
+  "Mine": "Cuddegal Iron Mine",
+  "State":"Goa",
+  "Latitude":"15.3591",
+  "Longitude": "74.0801",
+  "Article": "The Cuddegal Iron Mine is near Panaji, India.",
+  "more_info": "https://thediggings.com/mines/usgs10021431"
+},
+{
+  "Mineral": "Iron",
+  "Mine": "Kudnem Iron Mine",
+  "State":"Goa",
+  "Latitude":"15.3591",
+  "Longitude": "74.0801",
+  "Article": "The Kudnem Iron Mine is near Panaji, India.",
+  "more_info": "https://thediggings.com/mines/usgs10021432"
+},
+{
+  "Mineral": "Iron",
+  "Mine": "Pailigao Iron Mine",
+  "State":"Goa",
+  "Latitude":"15.3591",
+  "Longitude": "74.0801",
+  "Article": "The Pailigao Iron Mine is near Panaji, India.",
+  "more_info": "https://thediggings.com/mines/usgs10021433"
+},
+{
+  "Mineral": "Iron",
+  "Mine": "Pale Iron Mine",
+  "State":"Goa",
+  "Latitude":"15.4778",
+  "Longitude": "74.0685",
+  "Article": "The Pale Iron Mine is near Panaji, India. The ore mined is composed of magnetite and hematite. The host rock in this area is quartzite.",
+  "more_info": "https://thediggings.com/mines/usgs10084927"
+},
+{
+  "Mineral": "Iron",
+  "Mine": "Sanquelim Iron Mine",
+  "State":"Goa",
+  "Latitude":"15.5667",
+  "Longitude": "74.0171",
+  "Article": "The Sanquelim Iron Mine is near Panaji, India. The ore mined is composed of hematite. The host rock in this area is phyllite.",
+  "more_info": "https://thediggings.com/mines/usgs10084928"
+},
+{
+  "Mineral": "Manganese",
+  "Mine": "Sanguem Manganese Mine",
+  "State":"Goa",
+  "Latitude":"15.2250",
+  "Longitude": "74.1671",
+  "Article": "The Sanguem Manganese Mine is in Goa, India. The Sanguem Manganese Mine was closed at the time of data entry with no known plans to re-open. Production size when active was considered to be small. The ore mined is composed of manganite, pyrolusite and jacobsite with waste material consisting primarily of goethite, chlorite and sericite. The host rock in this area is phyllite.",
+  "more_info": "https://thediggings.com/mines/usgs10003869"
+},
+{
+  "Mineral": "Manganese",
+  "Mine": "Verlem Manganese Mine",
+  "State":"Goa",
+  "Latitude":"15.0501",
+  "Longitude": " 74.2504",
+  "Article": "The Verlem Manganese Mine is in Goa, India. Production output of the Verlem Manganese Mine was considered to be small size. The ore mined is composed of pyrolusite, manganite and jacobsite with waste material consisting primarily of goethite, quartz and chlorite. The ore body has a lenticular or lens shaped form of unknown dimensions. The host rock in this area is phyllite.",
+  "more_info": "https://thediggings.com/mines/usgs10003873"
+},
+{
+  "Mineral": "Iron",
+  "Mine": "Mandovi Chowgule Processing Plant",
+  "State":"Goa",
+  "Latitude":"15.5167",
+  "Longitude": " 73.9337",
+  "Article": "The Mandovi Chowgule Processing Plant is near Panaji, India. The Mandovi Chowgule Processing Plant is a processing plant.",
+  "more_info": "https://thediggings.com/mines/usgs10207349"
+},
+{
+  "Mineral": "Iron",
+  "Mine": "Chowgule Group",
+  "State":"Goa",
+  "Latitude":"15.4917",
+  "Longitude": "74.0504",
+  "Article": "The Chowgule Group is near Panaji, India. The Chowgule Group is a surface mining operation.",
+  "more_info": "https://thediggings.com/mines/usgs10279535"
+},
+{
+  "Mineral": "Iron",
+  "Mine": "Goa State",
+  "State":"Goa",
+  "Latitude":"15.5000",
+  "Longitude": "73.9171",
+  "Article": "The Goa State is near Panaji, India.",
+  "more_info": "https://thediggings.com/mines/usgs60000576"
+},
+{
+  "Mineral": "Manganese",
+  "Mine": "Goa State",
+  "State":"Goa",
+  "Latitude":"15.5000",
+  "Longitude": "73.9171",
+  "Article": "The Goa State is near Panaji, India.",
+  "more_info": "https://thediggings.com/mines/usgs60000576"
+},
+{
+  "Mineral": "Iron",
+  "Mine": "Pale Chowgule Processing Plant",
+  "State":"Goa",
+  "Latitude":"15.5167",
+  "Longitude": " 73.9337",
+  "Article": "The Pale Chowgule Processing Plant is near Panaji, India. The Pale Chowgule Processing Plant is a processing plant.",
+  "more_info": "https://thediggings.com/mines/usgs10304339"
+},
+{
+  "Mineral": "Copper",
+  "Mine": "Ambamata Lead-Zinc Copper Mine",
+  "State":"Gujarat",
+  "Latitude":"24.3326",
+  "Longitude": "72.8838",
+  "Article": "The Ambamata Lead-Zinc Copper Mine is in Gujarat, India. Production output of the Ambamata Lead-Zinc Copper Mine was considered to be small size.",
+  "more_info": "https://thediggings.com/mines/usgs10073074"
+},
+{
+  "Mineral": "Zinc",
+  "Mine": "Ambamata Lead-Zinc Copper Mine",
+  "State":"Gujarat",
+  "Latitude":"24.3326",
+  "Longitude": "72.8838",
+  "Article": "The Ambamata Lead-Zinc Copper Mine is in Gujarat, India. Production output of the Ambamata Lead-Zinc Copper Mine was considered to be small size.",
+  "more_info": "https://thediggings.com/mines/usgs10073074"
+},
+{
+  "Mineral": "Lead",
+  "Mine": "Ambamata Lead-Zinc Copper Mine",
+  "State":"Gujarat",
+  "Latitude":"24.3326",
+  "Longitude": "72.8838",
+  "Article": "The Ambamata Lead-Zinc Copper Mine is in Gujarat, India. Production output of the Ambamata Lead-Zinc Copper Mine was considered to be small size.",
+  "more_info": "https://thediggings.com/mines/usgs10073074"
+},
+{
+  "Mineral": "Aluminium",
+  "Mine": "Bauxite-India Aluminum Occurrence",
+  "State":"Gujarat",
+  "Latitude":"21.9994",
+  "Longitude": " 71.0005",
+  "Article": "The Bauxite-India Aluminum Occurrence is in Gujarat, India. Ore mineralization has been found at this location, however the precise grade, tonnage, and extent of the mineralization are not known. There has been no production and little to no activity other than routine claim maintenance since the mineral discovery. The ore mined is composed of bauxite. The host rock in this area is basalt.",
+  "more_info": "https://thediggings.com/mines/usgs10093355"
+},
+{
+  "Mineral": "Aluminum",
+  "Mine": "Surat Dist. Aluminum Occurrence",
+  "State":"Gujarat",
+  "Latitude":"22.7032",
+  "Longitude": "71.5562",
+  "Article": "The Surat Dist. Aluminum Occurrence is in Gujarat, India. Ore mineralization has been found at this location, however the precise grade, tonnage, and extent of the mineralization are not known. There has been no production and little to no activity other than routine claim maintenance since the mineral discovery.",
+  "more_info": "https://thediggings.com/mines/usgs10094863"
+},
+{
+  "Mineral": "Aluminium",
+  "Mine": "Sabarkantha Dist. Aluminum Occurrence",
+  "State":"Gujarat",
+  "Latitude":"22.703",
+  "Longitude": "71.5562",
+  "Article": "The Sabarkantha Dist. Aluminum Occurrence is in Gujarat, India. Ore mineralization has been found at this location, however the precise grade, tonnage, and extent of the mineralization are not known. There has been no production and little to no activity other than routine claim maintenance since the mineral discovery.",
+  "more_info": "https://thediggings.com/mines/usgs10022534"
+},
+{
+  "Mineral": "Aluminium",
+  "Mine": "Saurashtra Aluminum Occurrence",
+  "State":"Gujarat",
+  "Latitude":"22.7032",
+  "Longitude": "71.5562",
+  "Article": "The Saurashtra Aluminum Occurrence is in Gujarat, India. Ore mineralization has been found at this location, however the precise grade, tonnage, and extent of the mineralization are not known. There has been no production and little to no activity other than routine claim maintenance since the mineral discovery. The host rock in this area is basalt",
+  "more_info": "https://thediggings.com/mines/usgs10022541"
+},
+{
+  "Mineral": "Fluorine-Fluorite",
+  "Mine": "Gujarat Mineral Development Co. Mine",
+  "State":"Gujarat",
+  "Latitude":"22.3161",
+  "Longitude": "74.0172",
+  "Article": "The Gujarat Mineral Development Co. Mine is in Gujarat, India. The Gujarat Mineral Development Co. Mine was closed at the time of data entry with no known plans to re-open.",
+  "more_info": "https://thediggings.com/mines/usgs10182148"
+},
+{
+  "Mineral": "Copper",
+  "Mine": "Gujarat Mineral Development Co. Mine",
+  "State":"Gujarat",
+  "Latitude":"22.3161",
+  "Longitude": "74.0172",
+  "Article": "The Gujarat Mineral Development Co. Mine is in Gujarat, India. The Gujarat Mineral Development Co. Mine was closed at the time of data entry with no known plans to re-open.",
+  "more_info": "https://thediggings.com/mines/usgs10182148"
+},
+{
+  "Mineral": "Lead",
+  "Mine": "Gujarat Mineral Development Co. Mine",
+  "State":"Gujarat",
+  "Latitude":"22.3161",
+  "Longitude": "74.0172",
+  "Article": "The Gujarat Mineral Development Co. Mine is in Gujarat, India. The Gujarat Mineral Development Co. Mine was closed at the time of data entry with no known plans to re-open.",
+  "more_info": "https://thediggings.com/mines/usgs10182148"
+},
+{
+  "Mineral": "Zinc",
+  "Mine": "Gujarat Mineral Development Co. Mine",
+  "State":"Gujarat",
+  "Latitude":"22.3161",
+  "Longitude": "74.0172",
+  "Article": "The Gujarat Mineral Development Co. Mine is in Gujarat, India. The Gujarat Mineral Development Co. Mine was closed at the time of data entry with no known plans to re-open.",
+  "more_info": "https://thediggings.com/mines/usgs10182148"
+},
+{
+  "Mineral": "Aluminium",
+  "Mine": "Jamnagar: Mota Asota, Virpur Aluminum Prospect",
+  "State":"Gujarat",
+  "Latitude":"22.0661",
+  "Longitude": "70.4672",
+  "Article": "The Jamnagar: Mota Asota, Virpur Aluminum Prospect is in Gujarat, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. Mine operations consist of surface workings. There is one known shaft. The mining method is strip-level. Documentation from 1978 describes a single ore body as having a lenticular or lens shaped form reaching 1.50 meters (4.92 feet) thick.",
+  "more_info": "https://thediggings.com/mines/usgs10232595"
+},
+{
+  "Mineral": "Copper",
+  "Mine": "Ambamata-Deri Zinc Prospect",
+  "State":"Gujarat",
+  "Latitude":"24.3325",
+  "Longitude": "72.8505",
+  "Article": "The Ambamata-Deri Zinc Prospect is in Gujarat, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage.",
+  "more_info": "https://thediggings.com/mines/usgs10255727"
+},
+{
+  "Mineral": "Gold",
+  "Mine": "Ambamata-Deri Zinc Prospect",
+  "State":"Gujarat",
+  "Latitude":"24.3325",
+  "Longitude": "72.8505",
+  "Article": "The Ambamata-Deri Zinc Prospect is in Gujarat, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage.",
+  "more_info": "https://thediggings.com/mines/usgs10255727"
+},
+{
+  "Mineral": "Silver",
+  "Mine": "Ambamata-Deri Zinc Prospect",
+  "State":"Gujarat",
+  "Latitude":"24.3325",
+  "Longitude": "72.8505",
+  "Article": "The Ambamata-Deri Zinc Prospect is in Gujarat, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage.",
+  "more_info": "https://thediggings.com/mines/usgs10255727"
+},
+{
+  "Mineral": "Lead",
+  "Mine": "Ambamata-Deri Zinc Prospect",
+  "State":"Gujarat",
+  "Latitude":"24.3325",
+  "Longitude": "72.8505",
+  "Article": "The Ambamata-Deri Zinc Prospect is in Gujarat, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage.",
+  "more_info": "https://thediggings.com/mines/usgs10255727"
+},
+{
+  "Mineral": "Zinc",
+  "Mine": "Ambamata-Deri Zinc Prospect",
+  "State":"Gujarat",
+  "Latitude":"24.3325",
+  "Longitude": "72.8505",
+  "Article": "The Ambamata-Deri Zinc Prospect is in Gujarat, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage.",
+  "more_info": "https://thediggings.com/mines/usgs10255727"
+},
+{
+  "Mineral": "Iron",
+  "Mine": "Shivrajpur Syndicate Concessions Mine",
+  "State":"Gujarat",
+  "Latitude":"22.3994",
+  "Longitude": "73.6505",
+  "Article": "The Shivrajpur Syndicate Concessions Mine is in Gujarat, India. The Shivrajpur Syndicate Concessions Mine is a surface and underground mining operation. Initial production took place in 1905. Documentation from 1978 describes a single ore body as having a lenticular or lens shaped form reaching 859 meters (2,818 feet) long, 31 meters (101 feet) wide, and 4 meters (15 feet) thick",
+  "more_info": "https://thediggings.com/mines/usgs10255753"
+},
+{
+  "Mineral": "Silica",
+  "Mine": "Shivrajpur Syndicate Concessions Mine",
+  "State":"Gujarat",
+  "Latitude":"22.3994",
+  "Longitude": "73.6505",
+  "Article": "The Shivrajpur Syndicate Concessions Mine is in Gujarat, India. The Shivrajpur Syndicate Concessions Mine is a surface and underground mining operation. Initial production took place in 1905. Documentation from 1978 describes a single ore body as having a lenticular or lens shaped form reaching 859 meters (2,818 feet) long, 31 meters (101 feet) wide, and 4 meters (15 feet) thick",
+  "more_info": "https://thediggings.com/mines/usgs10255753"
+},
+{
+  "Mineral": "Manganese",
+  "Mine": "Shivrajpur Syndicate Concessions Mine",
+  "State":"Gujarat",
+  "Latitude":"22.3994",
+  "Longitude": "73.6505",
+  "Article": "The Shivrajpur Syndicate Concessions Mine is in Gujarat, India. The Shivrajpur Syndicate Concessions Mine is a surface and underground mining operation. Initial production took place in 1905. Documentation from 1978 describes a single ore body as having a lenticular or lens shaped form reaching 859 meters (2,818 feet) long, 31 meters (101 feet) wide, and 4 meters (15 feet) thick",
+  "more_info": "https://thediggings.com/mines/usgs10255753"
+},
+{
+  "Mineral": "Phosphorus-Phosphates",
+  "Mine": "Shivrajpur Syndicate Concessions Mine",
+  "State":"Gujarat",
+  "Latitude":"22.3994",
+  "Longitude": "73.6505",
+  "Article": "The Shivrajpur Syndicate Concessions Mine is in Gujarat, India. The Shivrajpur Syndicate Concessions Mine is a surface and underground mining operation. Initial production took place in 1905. Documentation from 1978 describes a single ore body as having a lenticular or lens shaped form reaching 859 meters (2,818 feet) long, 31 meters (101 feet) wide, and 4 meters (15 feet) thick",
+  "more_info": "https://thediggings.com/mines/usgs10255753"
+},
+{
+  "Mineral": "Aluminium",
+  "Mine": "Kaira: Taiabpur, Dhavalpur, Savl Aluminum Prospect",
+  "State":"Gujarat",
+  "Latitude":"22.7494",
+  "Longitude": "72.6888",
+  "Article": "The Kaira: Taiabpur, Dhavalpur, Savl Aluminum Prospect is near Ahmedabad, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. Documentation from 1978 describes a single ore body as having a lenticular or lens shaped form of unknown dimensions.",
+  "more_info": "https://thediggings.com/mines/usgs10256273"
+},
+{
+  "Mineral": "Copper",
+  "Mine": "Bhayavadar Copper Mine",
+  "State":"Gujarat",
+  "Latitude":" 21.8495",
+  "Longitude": "70.2505",
+  "Article": "The Bhayavadar Copper Mine is in Gujarat, India. The Bhayavadar Copper Mine was closed at the time of data entry with no known plans to re-open. Data from 1978 shows the ore was found in fissure veins of unknown dimensions.",
+  "more_info": "https://thediggings.com/mines/usgs10159016"
+},
+{
+  "Mineral": "Copper",
+  "Mine": "Amba Mata Copper Mine",
+  "State":"Gujarat",
+  "Latitude":"24.3292",
+  "Longitude": "72.8805",
+  "Article": "The Amba Mata Copper Mine is in Gujarat, India. The Amba Mata Copper Mine was closed at the time of data entry with no known plans to re-open.",
+  "more_info": "https://thediggings.com/mines/usgs10231099"
+},
+{
+  "Mineral": "Aluminium",
+  "Mine": "Bulsar: Ajrai, Pathri Aluminum Prospect",
+  "State":"Gujarat",
+  "Latitude":"20.6163",
+  "Longitude": " 72.9005",
+  "Article": "The Bulsar: Ajrai, Pathri Aluminum Prospect is near Daman, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. Documentation from 1978 describes a single ore body as having a lenticular or lens shaped form of unknown dimensions.",
+  "more_info": "https://thediggings.com/mines/usgs10256092"
+},
+{
+  "Mineral": "Phosphorus-Phosphates",
+  "Mine": "Sivarajpur Silica Mine",
+  "State":"Gujarat",
+  "Latitude":"22.4994",
+  "Longitude": "73.3338",
+  "Article": "The Sivarajpur Silica Mine is near Vadodara, India. The site was first discovered in 1905. The Sivarajpur Silica Mine was closed at the time of data entry with no known plans to re-open. The ore body is described as having an irregular shape of unknown dimensions.",
+  "more_info": "https://thediggings.com/mines/usgs10256120"
+},
+{
+  "Mineral": "Manganese",
+  "Mine": "Sivarajpur Silica Mine",
+  "State":"Gujarat",
+  "Latitude":"22.4994",
+  "Longitude": "73.3338",
+  "Article": "The Sivarajpur Silica Mine is near Vadodara, India. The site was first discovered in 1905. The Sivarajpur Silica Mine was closed at the time of data entry with no known plans to re-open. The ore body is described as having an irregular shape of unknown dimensions.",
+  "more_info": "https://thediggings.com/mines/usgs10256120"
+},
+{
+  "Mineral": "Silica",
+  "Mine": "Sivarajpur Silica Mine",
+  "State":"Gujarat",
+  "Latitude":"22.4994",
+  "Longitude": "73.3338",
+  "Article": "The Sivarajpur Silica Mine is near Vadodara, India. The site was first discovered in 1905. The Sivarajpur Silica Mine was closed at the time of data entry with no known plans to re-open. The ore body is described as having an irregular shape of unknown dimensions.",
+  "more_info": "https://thediggings.com/mines/usgs10256120"
+},
+{
+  "Mineral": "Silica",
+  "Mine": "Kajlidongri Phosphorus-Phosphates Mine",
+  "State":"Gujarat",
+  "Latitude":"22.4994",
+  "Longitude": "73.3338",
+  "Article": "The Kajlidongri Phosphorus-Phosphates Mine is near Vadodara, India. The Kajlidongri Phosphorus-Phosphates Mine was closed at the time of data entry with no known plans to re-open. The ore body is described as having an irregular shape of unknown dimensions.",
+  "more_info": "https://thediggings.com/mines/usgs10159307"
+},
+{
+  "Mineral": "Manganese",
+  "Mine": "Kajlidongri Phosphorus-Phosphates Mine",
+  "State":"Gujarat",
+  "Latitude":"22.4994",
+  "Longitude": "73.3338",
+  "Article": "The Kajlidongri Phosphorus-Phosphates Mine is near Vadodara, India. The Kajlidongri Phosphorus-Phosphates Mine was closed at the time of data entry with no known plans to re-open. The ore body is described as having an irregular shape of unknown dimensions.",
+  "more_info": "https://thediggings.com/mines/usgs10159307"
+},
+{
+  "Mineral": "Iron",
+  "Mine": "Kajlidongri Phosphorus-Phosphates Mine",
+  "State":"Gujarat",
+  "Latitude":"22.4994",
+  "Longitude": "73.3338",
+  "Article": "The Kajlidongri Phosphorus-Phosphates Mine is near Vadodara, India. The Kajlidongri Phosphorus-Phosphates Mine was closed at the time of data entry with no known plans to re-open. The ore body is described as having an irregular shape of unknown dimensions.",
+  "more_info": "https://thediggings.com/mines/usgs10159307"
+},
+{
+  "Mineral": "Phosphorus-Phosphates",
+  "Mine": "Kajlidongri Phosphorus-Phosphates Mine",
+  "State":"Gujarat",
+  "Latitude":"22.4994",
+  "Longitude": "73.3338",
+  "Article": "The Kajlidongri Phosphorus-Phosphates Mine is near Vadodara, India. The Kajlidongri Phosphorus-Phosphates Mine was closed at the time of data entry with no known plans to re-open. The ore body is described as having an irregular shape of unknown dimensions.",
+  "more_info": "https://thediggings.com/mines/usgs10159307"
+},
+{
+  "Mineral": "Aluminium, Iron, Silica, Titanium",
+  "Mine": "Bauxites Of The Saurashtra Penins Titanium Occurrence",
+  "State":"Gujarat",
+  "Latitude":"22.1094",
+  "Longitude": "69.3306",
+  "Article": "The Bauxites Of The Saurashtra Penins Titanium Occurrence is in Gujarat, India. The site was first discovered in 1927. Ore mineralization has been found at this location, however the precise grade, tonnage, and extent of the mineralization are not known. There has been no production and little to no activity other than routine claim maintenance since the mineral discovery. As of 1978 there was one documented tabular shaped ore body extending 40,000 meters (131,233 feet) long, 8,000 meters (26,246 feet) wide, and 3 meters (9 feet) thick.",
+  "more_info": "https://thediggings.com/mines/usgs10182190"
+},
+{
+  "Mineral": "Copper",
+  "Mine": "Beh Copper Occurrence",
+  "State":"Gujarat",
+  "Latitude":"22.2594",
+  "Longitude": "69.4606",
+  "Article": "The Beh Copper Occurrence is in Gujarat, India. Ore mineralization has been found at this location, however the precise grade, tonnage, and extent of the mineralization are not known. There has been no production and little to no activity other than routine claim maintenance since the mineral discovery.",
+  "more_info": "https://thediggings.com/mines/usgs10304013"
+},
+{
+  "Mineral": "Manganese",
+  "Mine": "Gujarat State",
+  "State":"Gujarat",
+  "Latitude":"22.9994",
+  "Longitude": "72.5005",
+  "Article": "The Gujarat State is near Ahmedabad, India. The site was first discovered in 1869.",
+  "more_info": "https://thediggings.com/mines/usgs60000574"
+},
+
+{
+  "Mineral": "Copper",
+  "Mine": "Khalara Hills Copper Occurrence",
+  "State":"Haryana",
+  "Latitude":"28.0589",
+  "Longitude": "76.0604",
+  "Article": "The Khalara Hills Copper Occurrence is in Haryana, India. Ore mineralization has been found at this location, however the precise grade, tonnage, and extent of the mineralization are not known. There has been no production and little to no activity other than routine claim maintenance since the mineral discovery.",
+  "more_info": "https://thediggings.com/mines/usgs10158744"
+},
+{
+  "Mineral": "Copper",
+  "Mine": "Ghatashar Copper Occurrence",
+  "State":"Haryana",
+  "Latitude":"27.9089",
+  "Longitude": "76.1004",
+  "Article": "The Ghatashar Copper Occurrence is in Haryana, India. Ore mineralization has been found at this location, however the precise grade, tonnage, and extent of the mineralization are not known. There has been no production and little to no activity other than routine claim maintenance since the mineral discovery.",
+  "more_info": "https://thediggings.com/mines/usgs10207281"
+},
+{
+  "Mineral": "Copper",
+  "Mine": "Teejanwali Copper Prospect",
+  "State":"Haryana",
+  "Latitude":"28.0289",
+  "Longitude": "76.1004",
+  "Article": "The Teejanwali Copper Prospect is in Haryana, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage.",
+  "more_info": "https://thediggings.com/mines/usgs10158614"
+},
+{
+  "Mineral": "Copper",
+  "Mine": "Banal Copper Mine",
+  "State":"Himachal Pradesh",
+  "Latitude":"30.6287",
+  "Longitude": " 77.4804",
+  "Article": "The Banal Copper Mine is in Himachal Pradesh, India. The Banal Copper Mine was closed at the time of data entry with no known plans to re-open.",
+  "more_info":"https://thediggings.com/mines/usgs10206912"
+},
+{
+  "Mineral": "Copper",
+  "Mine": "Rangbar Copper Occurrence",
+  "State":"Himachal Pradesh",
+  "Latitude":"31.8486",
+  "Longitude": "78.4004",
+  "Article": "The Rangbar Copper Occurrence is in Himachal Pradesh, India. Ore mineralization has been found at this location, however the precise grade, tonnage, and extent of the mineralization are not known. There has been no production and little to no activity other than routine claim maintenance since the mineral discovery. Information from 1978 described the ore body as having an unknown shape 20 meters (65 feet) in width.",
+  "more_info":"https://thediggings.com/mines/usgs10206730"
+},
+{
+  "Mineral": "Copper",
+  "Mine": "Siligrad Copper Mine",
+  "State":"Himachal Pradesh",
+  "Latitude":"32.5786",
+  "Longitude": "76.1604",
+  "Article": "The Siligrad Copper Mine is in Himachal Pradesh, India. The Siligrad Copper Mine was closed at the time of data entry with no known plans to re-open.",
+  "more_info":"https://thediggings.com/mines/usgs10231441"
+},
+{
+  "Mineral": "Copper",
+  "Mine": "Ropa Copper Occurrence",
+  "State":"Himachal Pradesh",
+  "Latitude":"31.7986",
+  "Longitude": "78.4304",
+  "Article": "The Ropa Copper Occurrence is in Himachal Pradesh, India. Ore mineralization has been found at this location, however the precise grade, tonnage, and extent of the mineralization are not known. There has been no production and little to no activity other than routine claim maintenance since the mineral discovery.",
+  "more_info":"https://thediggings.com/mines/usgs10158636"
+},
+{
+  "Mineral": "Copper",
+  "Mine": "Chashani Copper Occurrence",
+  "State":"Himachal Pradesh",
+  "Latitude":"31.7987",
+  "Longitude": "77.2104",
+  "Article": "The Chashani Copper Occurrence is in Himachal Pradesh, India. Ore mineralization has been found at this location, however the precise grade, tonnage, and extent of the mineralization are not known. There has been no production and little to no activity other than routine claim maintenance since the mineral discovery",
+  "more_info":"https://thediggings.com/mines/usgs10183435"
+},
+{
+  "Mineral": "Copper",
+  "Mine": "Matiana Copper Mine",
+  "State":"Himachal Pradesh",
+  "Latitude":"31.2087",
+  "Longitude": " 77.4004",
+  "Article": "The Matiana Copper Mine is near Simla, India. The Matiana Copper Mine was closed at the time of data entry with no known plans to re-open",
+  "more_info":"https://thediggings.com/mines/usgs10279620"
+},
+{
+  "Mineral": "Titanium",
+  "Mine": "Simla Hill Silica Prospect",
+  "State":"Himachal Pradesh",
+  "Latitude":"31.0987",
+  "Longitude": "77.1604",
+  "Article": "The Simla Hill Silica Prospect is near Simla, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. Information from 1978 described the ore as sedimentary in form reaching 18,000 meters (59,055 feet) long and 120 meters (393 feet) thick.",
+  "more_info":"https://thediggings.com/mines/usgs10303944"
+},
+{
+  "Mineral": "Iron",
+  "Mine": "Simla Hill Silica Prospect",
+  "State":"Himachal Pradesh",
+  "Latitude":"31.0987",
+  "Longitude": "77.1604",
+  "Article": "The Simla Hill Silica Prospect is near Simla, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. Information from 1978 described the ore as sedimentary in form reaching 18,000 meters (59,055 feet) long and 120 meters (393 feet) thick.",
+  "more_info":"https://thediggings.com/mines/usgs10303944"
+},
+{
+  "Mineral": "Silica",
+  "Mine": "Simla Hill Silica Prospect",
+  "State":"Himachal Pradesh",
+  "Latitude":"31.0987",
+  "Longitude": "77.1604",
+  "Article": "The Simla Hill Silica Prospect is near Simla, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. Information from 1978 described the ore as sedimentary in form reaching 18,000 meters (59,055 feet) long and 120 meters (393 feet) thick.",
+  "more_info":"https://thediggings.com/mines/usgs10303944"
+},
+{
+  "Mineral": "Lead",
+  "Mine": "Jhari Lead Occurrence",
+  "State":"Himachal Pradesh",
+  "Latitude":"31.9986",
+  "Longitude": " 77.3004",
+  "Article": "The Jhari Lead Occurrence is in Himachal Pradesh, India. Ore mineralization has been found at this location, however the precise grade, tonnage, and extent of the mineralization are not known. There has been no production and little to no activity other than routine claim maintenance since the mineral discovery.",
+  "more_info":"https://thediggings.com/mines/usgs10304012"
+},
+{
+  "Mineral": "Copper",
+  "Mine": "Jhari Lead Occurrence",
+  "State":"Himachal Pradesh",
+  "Latitude":"31.9986",
+  "Longitude": " 77.3004",
+  "Article": "The Jhari Lead Occurrence is in Himachal Pradesh, India. Ore mineralization has been found at this location, however the precise grade, tonnage, and extent of the mineralization are not known. There has been no production and little to no activity other than routine claim maintenance since the mineral discovery.",
+  "more_info":"https://thediggings.com/mines/usgs10304012"
+},
+{
+  "Mineral": "Silver",
+  "Mine": "Jhari Lead Occurrence",
+  "State":"Himachal Pradesh",
+  "Latitude":"31.9986",
+  "Longitude": " 77.3004",
+  "Article": "The Jhari Lead Occurrence is in Himachal Pradesh, India. Ore mineralization has been found at this location, however the precise grade, tonnage, and extent of the mineralization are not known. There has been no production and little to no activity other than routine claim maintenance since the mineral discovery.",
+  "more_info":"https://thediggings.com/mines/usgs10304012"
+},
+{
+  "Mineral": "Copper",
+  "Mine": "Saho Copper Mine",
+  "State":"Himachal Pradesh",
+  "Latitude":"32.5986",
+  "Longitude": "76.2304",
+  "Article": "The Saho Copper Mine is in Himachal Pradesh, India. The Saho Copper Mine was closed at the time of data entry with no known plans to re-open.",
+  "more_info":"https://thediggings.com/mines/usgs10304052"
+},
+{
+  "Mineral": "Copper",
+  "Mine": "Bilan Kote Bhalan Copper Occurrence",
+  "State":"Himachal Pradesh",
+  "Latitude":" 31.7987",
+  "Longitude": "77.2604",
+  "Article": "The Bilan Kote Bhalan Copper Occurrence is in Himachal Pradesh, India. Ore mineralization has been found at this location, however the precise grade, tonnage, and extent of the mineralization are not known. There has been no production and little to no activity other than routine claim maintenance since the mineral discovery.",
+  "more_info":"https://thediggings.com/mines/usgs10280048"
+},
+{
+  "Mineral": "Copper",
+  "Mine": "Gagangir Copper Mine",
+  "State":"Jammu And Kashmir",
+  "Latitude":"34.2785",
+  "Longitude": "75.2005",
+  "Article": "The Gagangir Copper Mine is in Jammu And Kashmir, India. The Gagangir Copper Mine was closed at the time of data entry with no known plans to re-open.",
+  "more_info":"https://thediggings.com/mines/usgs10133837"
+},
+{
+  "Mineral": "Copper",
+  "Mine": "Lashteal Copper Mine",
+  "State":"Jammu And Kashmir",
+  "Latitude":"34.5785",
+  "Longitude": "74.3305",
+  "Article": "The Lashteal Copper Mine is near Sopur, India. The Lashteal Copper Mine was closed at the time of data entry with no known plans to re-open. Information from 1978 described the ore body as having an unknown shape 15 meters (49 feet) in width.",
+  "more_info":"https://thediggings.com/mines/usgs10134189"
+},
+{
+  "Mineral": "Copper",
+  "Mine": "Dul Copper Occurrence",
+  "State":"Jammu And Kashmir",
+  "Latitude":"33.3585",
+  "Longitude": "75.7605",
+  "Article": "The Dul Copper Occurrence is in Jammu And Kashmir, India. Ore mineralization has been found at this location, however the precise grade, tonnage, and extent of the mineralization are not known. There has been no production and little to no activity other than routine claim maintenance since the mineral discovery. Information from 1978 described the ore body as having an unknown shape 750.00 meters (2,460.63 feet) long, 200.00 meters (656.17 feet) wide, and 0.10 meters (0.33 feet) thick.",
+  "more_info":"https://thediggings.com/mines/usgs10134335"
+},
+{
+  "Mineral": "Copper",
+  "Mine": "Kulan Copper Prospect",
+  "State":"Jammu And Kashmir",
+  "Latitude":"34.2585",
+  "Longitude": "75.1505",
+  "Article": "The Kulan Copper Prospect is in Jammu And Kashmir, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. Documentation from 1978 associates the ore with breccia fill reaching 4 meters (14 feet) in width.",
+  "more_info":"https://thediggings.com/mines/usgs10182380"
+},
+{
+  "Mineral": "Copper",
+  "Mine": "Mamal Copper Prospect",
+  "State":"Jammu And Kashmir",
+  "Latitude":"34.0085",
+  "Longitude": "75.3105",
+  "Article": "The Mamal Copper Prospect is in Jammu And Kashmir, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage.",
+  "more_info":"https://thediggings.com/mines/usgs10190872"
+},
+{
+  "Mineral": "Copper",
+  "Mine": "Bunyar Lead Occurrence",
+  "State":"Jammu And Kashmir",
+  "Latitude":"34.1285",
+  "Longitude": "74.1805",
+  "Article": "The Bunyar Lead Occurrence is near Baramula, India. Ore mineralization has been found at this location, however the precise grade, tonnage, and extent of the mineralization are not known. There has been no production and little to no activity other than routine claim maintenance since the mineral discovery.",
+  "more_info":"https://thediggings.com/mines/usgs10255761"
+},
+{
+  "Mineral": "Lead",
+  "Mine": "Bunyar Lead Occurrence",
+  "State":"Jammu And Kashmir",
+  "Latitude":"34.1285",
+  "Longitude": "74.1805",
+  "Article": "The Bunyar Lead Occurrence is near Baramula, India. Ore mineralization has been found at this location, however the precise grade, tonnage, and extent of the mineralization are not known. There has been no production and little to no activity other than routine claim maintenance since the mineral discovery.",
+  "more_info":"https://thediggings.com/mines/usgs10255761"
+},
+{
+  "Mineral": "Copper",
+  "Mine": "Sukhwal Copper Prospect",
+  "State":"Jammu And Kashmir",
+  "Latitude":"33.0286",
+  "Longitude": "75.0005",
+  "Article": "The Sukhwal Copper Prospect is near Jammu, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. Information from 1978 described the ore in stockwork veins reaching 18 meters (59 feet) long and 1 meters (4 feet) wide.",
+  "more_info":"https://thediggings.com/mines/usgs10159183"
+},
+{
+  "Mineral": "Copper",
+  "Mine": "Kangan Copper Prospect",
+  "State":"Jammu And Kashmir",
+  "Latitude":"34.2585",
+  "Longitude": "74.9005",
+  "Article": "The Kangan Copper Prospect is near Srinagar, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. Information from 1978 described the ore in stockwork veins of unknown dimensions.",
+  "more_info":"https://thediggings.com/mines/usgs10206668"
+},
+{
+  "Mineral": "Copper",
+  "Mine": "Gund Copper Prospect",
+  "State":"Jammu And Kashmir",
+  "Latitude":"34.2485",
+  "Longitude": "75.1005",
+  "Article": "The Gund Copper Prospect is near Srinagar, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. Information from 1978 described the ore in stockwork veins 0.60 meters (1.97 feet) in width.",
+  "more_info":"https://thediggings.com/mines/usgs10207009"
+},
+{
+  "Mineral": "Copper",
+  "Mine": "Kothiyara Copper Prospect",
+  "State":"Jammu And Kashmir",
+  "Latitude":"33.1086",
+  "Longitude": "75.4305",
+  "Article": "The Kothiyara Copper Prospect is in Jammu And Kashmir, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage.",
+  "more_info":"https://thediggings.com/mines/usgs10208255"
+},
+{
+  "Mineral": "Copper",
+  "Mine": "Bunyar Copper Mine",
+  "State":"Jammu And Kashmir",
+  "Latitude":"34.1085",
+  "Longitude": "74.2005",
+  "Article": "The Bunyar Copper Mine is near Baramula, India. The Bunyar Copper Mine was closed at the time of data entry with no known plans to re-open.",
+  "more_info":"https://thediggings.com/mines/usgs10231121"
+},
+{
+  "Mineral": "Copper",
+  "Mine": "Najawan Copper Prospect",
+  "State":"Jammu And Kashmir",
+  "Latitude":"34.2585",
+  "Longitude": "74.8605",
+  "Article": "The Najawan Copper Prospect is near Srinagar, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. Information from 1978 described the ore in stockwork veins 2.00 meters (6.56 feet) in width",
+  "more_info":"https://thediggings.com/mines/usgs10231208"
+},
+{
+  "Mineral": "Copper",
+  "Mine": "Sumsamsumjam Copper Prospect",
+  "State":"Jammu And Kashmir",
+  "Latitude":"33.4235",
+  "Longitude": "76.4171",
+  "Article": "The Sumsamsumjam Copper Prospect is in Jammu And Kashmir, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage.",
+  "more_info":"https://thediggings.com/mines/usgs10182757"
+},
+{
+  "Mineral": "Copper",
+  "Mine": "Gainta Copper Prospect",
+  "State":"Jammu And Kashmir",
+  "Latitude":" 33.0786",
+  "Longitude": "74.9605",
+  "Article": "The Gainta Copper Prospect is in Jammu And Kashmir, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage.",
+  "more_info":"https://thediggings.com/mines/usgs10305704"
+},
+{
+  "Mineral": "Copper",
+  "Mine": "Kaleh Copper Prospect",
+  "State":"Jammu And Kashmir",
+  "Latitude":" 33.0986",
+  "Longitude": "75.5305",
+  "Article": "The Kaleh Copper Prospect is in Jammu And Kashmir, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage.",
+  "more_info":"https://thediggings.com/mines/usgs10279859"
+},
+{
+  "Mineral": "Copper",
+  "Mine": "Khabrel Lead Prospect",
+  "State":"Jammu And Kashmir",
+  "Latitude":"33.0586",
+  "Longitude": "75.5005",
+  "Article": "The Khabrel Lead Prospect is in Jammu And Kashmir, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage.",
+  "more_info":"https://thediggings.com/mines/usgs10279750"
+},
+{
+  "Mineral": "Lead",
+  "Mine": "Khabrel Lead Prospect",
+  "State":"Jammu And Kashmir",
+  "Latitude":"33.0586",
+  "Longitude": "75.5005",
+  "Article": "The Khabrel Lead Prospect is in Jammu And Kashmir, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage.",
+  "more_info":"https://thediggings.com/mines/usgs10279750"
+},
+{
+  "Mineral": "Copper",
+  "Mine": "Shumahal Copper Mine",
+  "State":"Jammu And Kashmir",
+  "Latitude":"33.8085",
+  "Longitude": "75.3005",
+  "Article": "The Shumahal Copper Mine is in Jammu And Kashmir, India. The Shumahal Copper Mine was closed at the time of data entry with no known plans to re-open.",
+  "more_info":"https://thediggings.com/mines/usgs10303707"
+},
+{
+  "Mineral": "Copper",
+  "Mine": "Doga Copper Prospect",
+  "State":"Jammu And Kashmir",
+  "Latitude":"33.1786",
+  "Longitude": " 74.7505",
+  "Article": "The Doga Copper Prospect is in Jammu And Kashmir, India. Preliminary development has taken place such as surface trenching, adits, shafts, drill holes, geophysics, geochemistry, or geological mapping. Enough data has been gathered to estimate grade and tonnage. Information from 1978 described the ore body as having an unknown shape and extends 9.00 meters (29.53 feet) long and 0.60 meters (1.97 feet) wide.",
+  "more_info":"https://thediggings.com/mines/usgs10304294"
+}
+
+
+
+
+
+  
+    
+           
+    ]
+}
